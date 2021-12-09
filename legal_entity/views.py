@@ -51,3 +51,4 @@ def LegalEntityCreate(request):
     else:
         form = LegalEntityForm ()
         return render ( request, "create.html", {'form': form} )
+

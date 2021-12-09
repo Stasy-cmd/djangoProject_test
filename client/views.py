@@ -28,7 +28,6 @@ def ClientUpdate(request, pk):
         if form.errors:
             return render ( request, 'client_is_update.html', {'update_le': None} )
         client = form.save ( commit=False )
-        client.id_client = request.POST['id_client']
         client.phone_number = request.POST['phone_number']
         client.additional_numbers = request.POST['additional_numbers']
         client.surname = request.POST['surname']
@@ -40,7 +39,7 @@ def ClientUpdate(request, pk):
         client.timezone = request.POST['timezone']
         client.sex = request.POST['sex']
         client.save ()
-        return render ( request, 'client_is_update.html', {'update_client': client} )
+        return render ( request, 'client_is_update.html', {'update_client': True} )
     else:
         form = ClientForm ( instance=client_obj.first() )
     return render ( request, 'create.html', {'form': form} )
@@ -48,12 +47,11 @@ def ClientUpdate(request, pk):
 
 def ClientCreate(request):
     if request.method == 'POST':
-        form = ClientForm ( request.POST )
+        form = ClientForm (request.POST)
         if form.errors:
             return render ( request, 'client_is_success.html', {'add_client': None} )
-        form.save(commit=True)
-        client_obj = Client.objects.filter ( id_client=request.POST['id_client'] ).first ()
-        return render ( request, 'client_is_success.html', {'add_client': client_obj} )
+        form.save()
+        return render ( request, 'client_is_success.html', {'add_client': True} )
     else:
         form = ClientForm()
         return render ( request, "create.html", {'form': form} )

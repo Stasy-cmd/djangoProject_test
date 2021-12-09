@@ -30,8 +30,8 @@ class Client ( models.Model ):
                                    message="Phone number must be entered in the format: '999999999'. "
                                            "Up to 15 digits allowed." )
 
-    id = models.IntegerField (primary_key=True, auto_created=True)
-    id_client = models.IntegerField (unique=True, validators=[id_client_regex], blank=True )
+    id = models.IntegerField (primary_key=True, auto_created=True,  blank=True)
+    #id_client = models.IntegerField(unique=True, validators=[id_client_regex], blank=True )
     phone_number = models.IntegerField ( max_length=7, validators=[phone_regex], blank=True )
     additional_numbers = models.CharField ( max_length=255 )
     surname = models.CharField ( max_length=255 )

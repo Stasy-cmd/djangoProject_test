@@ -1,11 +1,11 @@
 from rest_framework import serializers
-from .model import Departments
+from .model import Departments, NumberId, DepartmentsLegal, LegalClient
 
 
 class DepartmentsSerializer ( serializers.ModelSerializer ):
     class Meta:
         model = Departments
-        fields = ('id_department', 'name', 'id_client', 'id_legal_entity')
+        fields = ('name')
 
     def create(self, validated_data):
         return Departments.objects.create ( **validated_data )
@@ -18,3 +18,16 @@ class DepartmentsSerializer ( serializers.ModelSerializer ):
 
     def delete(self, instance):
         return Departments.objects.filter ( instance.pk ).delete ()
+
+
+class NumberIdSerializer ( serializers.ModelSerializer ):
+    class Meta:
+        model = NumberId
+
+class LegalClientSerializer ( serializers.ModelSerializer ):
+    class Meta:
+        model = LegalClient
+
+class DepartmentsLegalSerializer ( serializers.ModelSerializer ):
+    class Meta:
+        model = DepartmentsLegal

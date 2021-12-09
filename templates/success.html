@@ -1,9 +1,8 @@
 {% block content %}
-    {% if add_le %}
+    {% if add %}
         <h1>Запись добавлена</h1>
     {% else %}
         <p>Ошибка при добавлении данных</p>
     {% endif %}
-    <a href="{% url 'all_legal_entity' %}"> Вывести все  юридические лица</a>
 
 {% endblock %}

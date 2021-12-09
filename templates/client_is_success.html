@@ -1,12 +1,9 @@
 {% block content %}
-    {% if add_le %}
-        <h1>Запись добавлена</h1>
-        <p>NAME: {{ delete_client.name }}</p>
-        <p>SURNAME: {{ delete_client.surname }}</p>
-        <p>MIDDLE NAME: {{ delete_client.middle_name }}</p>
+    {% if add_client %}
+        <h1>Запись добавлена</h1
     {% else %}
         <p>Ошибка при добавлении данных</p>
     {% endif %}
-    <a href="{% url 'all_client' %}"> Вывести все юридические лица</a>
+    <a href="{% url 'all_client' %}"> Вывести всех пользователей</a>
 
 {% endblock %}

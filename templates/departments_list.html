@@ -1,0 +1,25 @@
+{% block content %}
+        <div class="high-title-text" id="font-face">
+            <p>All Departments</p>
+        </div>
+        {% if departments%}
+            <table>
+            {% for a in departments %}
+                <tr>
+                    <td>
+                        <p>{{ a.id}}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.name }}</p>
+                    </td>
+
+                </tr>
+            {% endfor %}
+            </table>
+        {% else %}
+            Нет записей =(
+        {% endif %}
+
+{% endblock %}
+
+
