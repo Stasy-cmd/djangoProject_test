@@ -1,0 +1,11 @@
+{% block content %}
+    {% if update_le %}
+        <h1>Данные в записи перезаписаны</h1>
+        <p>Запись {{ update_le.pk }}</p>
+        <p>SHORT NAME: {{ update_le.name_short}}</p>
+    {% else%}
+        <p> Ошибка при обновлении данных</p>
+    {% endif %}
+    <a href="{% url 'all_legal_entity' %}"> Вывести все юридические лица</a>
+
+{% endblock %}

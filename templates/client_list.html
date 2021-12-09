@@ -1,0 +1,49 @@
+{% block content %}
+        <div class="high-title-text" id="font-face">
+            <p>All Legal Entity</p>
+        </div>
+        {% if legal_entity%}
+            <table>
+            {% for a in legal_entity %}
+                <tr>
+                    <td>
+                        <p>{{ a.id_client}}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.phone_number }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.additional_numbers }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.surname }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.name }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.middle_name }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.status }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.type_of_client }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.email }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.timezone }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.sex }}</p>
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% else %}
+            Нет клиентов =(
+        {% endif %}
+
+{% endblock %}

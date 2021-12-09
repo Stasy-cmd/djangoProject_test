@@ -1,0 +1,31 @@
+{% block content %}
+        <div class="high-title-text" id="font-face">
+            <p>All Legal Entity</p>
+        </div>
+        {% if legal_entity%}
+            <table>
+            {% for a in legal_entity %}
+                <tr>
+                    <td>
+                        <p>{{ a.id_client}}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.name_short }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.name_full }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.inn }}</p>
+                    </td>
+                    <td>
+                        <p>{{ a.kpp }}</p>
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% else %}
+            Нет юридических лиц =(
+        {% endif %}
+
+{% endblock %}

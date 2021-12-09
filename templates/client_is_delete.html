@@ -1,0 +1,11 @@
+{% block content %}
+       {% if delete_client%}
+            <p>Запись удалена</p>
+            <p>NAME: {{ delete_client.name }}</p>
+            <p>SURNAME: {{ delete_client.surname }}</p>
+            <p>MIDDLE NAME: {{ delete_client.middle_name }}</p>
+       {% else %}
+             <p>Запись не обнаружена</p>
+       {% endif %}
+       <a href="{% url 'all_client' %}"> Вывести всех клиентов</a>
+{% endblock %}

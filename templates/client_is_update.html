@@ -1,0 +1,11 @@
+{% block content %}
+    {% if update_client %}
+        <h1>Данные в записи перезаписаны</h1>
+         <p>NAME: {{ update_client.name }}</p>
+         <p>SURNAME: {{ update_client.surname }}</p>
+         <p>MIDDLE NAME: {{ update_client.middle_name }}</p>
+    {% else%}
+        <p> Ошибка при обновлении данных</p>
+    {% endif %}
+    <a href="{% url 'all_client' %}"> Вывести всех клиентов</a>
+{% endblock %}

@@ -1,0 +1,12 @@
+{% block content %}
+    {% if add_le %}
+        <h1>Запись добавлена</h1>
+        <p> PK: {{ add_le.pk }} </p>
+        <p> ID_CLIENT: {{ add_le.id_client }} </p>
+        <p> NAME SHORT: {{ add_le.name_short }} </p>
+    {% else %}
+        <p>Ошибка при добавлении данных</p>
+    {% endif %}
+    <a href="{% url 'all_legal_entity' %}"> Вывести все юридические лица</a>
+
+{% endblock %}

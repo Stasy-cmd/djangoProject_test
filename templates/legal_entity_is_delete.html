@@ -1,0 +1,10 @@
+{% block content %}
+       {% if delete_le%}
+            <p>Запись удалена</p>
+            <p>{{ delete_le.name_short }}</p>
+            <p>{{ delete_le.name_full }}</p>
+       {% else %}
+             <p>Запись не обнаружена</p>
+       {% endif %}
+       <a href="{% url 'all_legal_entity' %}"> Вывести все юридические лица</a>
+{% endblock %}
