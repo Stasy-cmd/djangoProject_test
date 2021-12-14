@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "name_short": "WNsZcwOu",
+    "name_full": "XSduYQZNLlhkFIvegoGT",
+    "inn": 627244914306174,
+    "kpp": 351079555
+  },
+  {
+    "id": 2,
+    "name_short": "ruSVofqr",
+    "name_full": "diuEayqysblkmFDoizPe",
+    "inn": 111495665669398,
+    "kpp": 771537126
+  },
+  {
+    "id": 3,
+    "name_short": "atirmUhL",
+    "name_full": "MxBwuhAOzvJRnLNPsONG",
+    "inn": 550205356877126,
+    "kpp": 371890435
+  },
+  {
+    "id": 4,
+    "name_short": "JQQKcKvb",
+    "name_full": "CaUygolrIOuQYOnnkMvG",
+    "inn": 176389588272680,
+    "kpp": 261393242
+  },
+  {
+    "id": 5,
+    "name_short": "BJwpojoH",
+    "name_full": "FxmPZUcFeLbzUdzFmdNB",
+    "inn": 242443417810555,
+    "kpp": 177698113
+  },
+  {
+    "id": 6,
+    "name_short": "AFpQncdK",
+    "name_full": "cAQrMzxpknMFCgZFVxRq",
+    "inn": 774887005800536,
+    "kpp": 100356279
+  },
+  {
+    "id": 7,
+    "name_short": "kogljsaQ",
+    "name_full": "uPKOUgVVTsytotxXtdOp",
+    "inn": 923135887208471,
+    "kpp": 529623680
+  },
+  {
+    "id": 8,
+    "name_short": "QKNkEKtK",
+    "name_full": "xaWouDAJfaBCGqQDrsNA",
+    "inn": 455794930833371,
+    "kpp": 175546914
+  },
+  {
+    "id": 9,
+    "name_short": "rcgZPtcu",
+    "name_full": "olBYcfXmZchpGgKASSqK",
+    "inn": 601004967151971,
+    "kpp": 395886487
+  },
+  {
+    "id": 10,
+    "name_short": "LDJPfkLv",
+    "name_full": "CtrNorkWzkbXdRKFXmEL",
+    "inn": 267157802420223,
+    "kpp": 590457403
+  },
+  {
+    "id": 11,
+    "name_short": "FJJSVrMU",
+    "name_full": "EJoUsfEMznBeZUoikkzI",
+    "inn": 244026169748032,
+    "kpp": 750031845
+  },
+  {
+    "id": 12,
+    "name_short": "iNAbWalA",
+    "name_full": "piSYUUqtlAbdMXbkRisq",
+    "inn": 644626741621101,
+    "kpp": 379373646
+  },
+  {
+    "id": 13,
+    "name_short": "pKowDZEn",
+    "name_full": "BOIAhNlwFuwMBITzUuDl",
+    "inn": 458071076450297,
+    "kpp": 870608476
+  },
+  {
+    "id": 14,
+    "name_short": "pRHdPDaT",
+    "name_full": "tzLjENMRcdHknkPtmXnl",
+    "inn": 183412032848262,
+    "kpp": 746408875
+  },
+  {
+    "id": 15,
+    "name_short": "tIftAfDs",
+    "name_full": "WMcWLUhGDuDxIDzhvoNV",
+    "inn": 999618259468287,
+    "kpp": 616017286
+  },
+  {
+    "id": 16,
+    "name_short": "YwHqgOeW",
+    "name_full": "UvkMahltSGQqTJUkUXWA",
+    "inn": 189031982578376,
+    "kpp": 960510270
+  },
+  {
+    "id": 17,
+    "name_short": "JLomfGuh",
+    "name_full": "rjTZkDSacQPcXjppQtYM",
+    "inn": 770111693048716,
+    "kpp": 704256036
+  },
+  {
+    "id": 18,
+    "name_short": "oLOUgwLh",
+    "name_full": "RbqkvgzFXYotRiFNMpdE",
+    "inn": 280622902416677,
+    "kpp": 145519469
+  },
+  {
+    "id": 19,
+    "name_short": "PsmAUOnc",
+    "name_full": "WyjzPMgiRifsxEBHaeSW",
+    "inn": 665782571311257,
+    "kpp": 881263962
+  },
+  {
+    "id": 20,
+    "name_short": "NAAOYQMb",
+    "name_full": "vQtTjnVzGGcgLVotpuDy",
+    "inn": 426267974929794,
+    "kpp": 887569644
+  },
+  {
+    "id": 21,
+    "name_short": "vqHiHZRu",
+    "name_full": "BOqOOUWQjbqgWDDZJooA",
+    "inn": 363355502435546,
+    "kpp": 216556558
+  },
+  {
+    "id": 22,
+    "name_short": "YGhtVPYL",
+    "name_full": "VpcFcDIoAsEUgoJWLpft",
+    "inn": 335093701328495,
+    "kpp": 317447593
+  },
+  {
+    "id": 23,
+    "name_short": "wxhDvAuP",
+    "name_full": "AfDlrmTMaYoLbWAOtKqA",
+    "inn": 937114794496827,
+    "kpp": 516595834
+  },
+  {
+    "id": 24,
+    "name_short": "XAmUxSPO",
+    "name_full": "MciGvMwuSHmZfsgltnuo",
+    "inn": 324853447392133,
+    "kpp": 946093500
+  },
+  {
+    "id": 25,
+    "name_short": "DYdQMSwa",
+    "name_full": "AlCyUarPuzxodTqeKfDF",
+    "inn": 436037922821240,
+    "kpp": 824967856
+  },
+  {
+    "id": 26,
+    "name_short": "kxDFLXGS",
+    "name_full": "nIgZAlqyeLbmzVfYckjj",
+    "inn": 481962553216008,
+    "kpp": 480562282
+  },
+  {
+    "id": 27,
+    "name_short": "AEYfFapk",
+    "name_full": "ofZYAXpcGrWqFlZmPiyG",
+    "inn": 118675635614896,
+    "kpp": 161449939
+  },
+  {
+    "id": 28,
+    "name_short": "QacBnusX",
+    "name_full": "cpoRwvunquisgweOwVrT",
+    "inn": 267058185903154,
+    "kpp": 483979682
+  },
+  {
+    "id": 29,
+    "name_short": "LCWTtjcc",
+    "name_full": "WYDdztpjKmKrPHmsOHUy",
+    "inn": 688883026134636,
+    "kpp": 699717206
+  },
+  {
+    "id": 30,
+    "name_short": "hlwTYYmE",
+    "name_full": "wrloMMqHMeCcxqwgnAoP",
+    "inn": 618101407991117,
+    "kpp": 298112372
+  },
+  {
+    "id": 31,
+    "name_short": "rxAwxbPR",
+    "name_full": "GOWccnosCBhAYnvAXWhw",
+    "inn": 223921000429009,
+    "kpp": 415078981
+  },
+  {
+    "id": 32,
+    "name_short": "gqWtdbfH",
+    "name_full": "oXlRCXClSgKsuXmVroHg",
+    "inn": 810807121106953,
+    "kpp": 765835592
+  },
+  {
+    "id": 33,
+    "name_short": "FWogprWg",
+    "name_full": "rOzoPWexPBWBAzvTSzJa",
+    "inn": 735079078100121,
+    "kpp": 854426619
+  },
+  {
+    "id": 34,
+    "name_short": "ZzmFMlkj",
+    "name_full": "qCkYyDqJDuKQAqwweYyM",
+    "inn": 305244793920751,
+    "kpp": 395190995
+  },
+  {
+    "id": 35,
+    "name_short": "zpcbUDgR",
+    "name_full": "MgvEMCtjuyiRxfcBHmOH",
+    "inn": 142979308119597,
+    "kpp": 258586562
+  },
+  {
+    "id": 36,
+    "name_short": "qXJFWqFs",
+    "name_full": "gZBBWywRjeLPbFYfvIYW",
+    "inn": 108634380040897,
+    "kpp": 888371533
+  },
+  {
+    "id": 37,
+    "name_short": "wDVNptdK",
+    "name_full": "iEnhAVujdBiEocDuptCt",
+    "inn": 357920884516845,
+    "kpp": 267449810
+  },
+  {
+    "id": 38,
+    "name_short": "mViVViLa",
+    "name_full": "xkxtYuWfJLddZvyZvyvA",
+    "inn": 778480341189972,
+    "kpp": 964805491
+  },
+  {
+    "id": 39,
+    "name_short": "NDThfrhk",
+    "name_full": "QudJbVWfbbMJUJXXpNvd",
+    "inn": 689923005166626,
+    "kpp": 755006372
+  },
+  {
+    "id": 40,
+    "name_short": "jrZyZjiO",
+    "name_full": "TNaUuaUkoWGDOEYRJpWJ",
+    "inn": 858629813754007,
+    "kpp": 599778503
+  },
+  {
+    "id": 41,
+    "name_short": "DyVJMUfZ",
+    "name_full": "poCcPdAXFpyaqPKuZXCb",
+    "inn": 761506384514557,
+    "kpp": 899171574
+  },
+  {
+    "id": 42,
+    "name_short": "EbAuXBNs",
+    "name_full": "cdDPbowCzTMSZMITtTCC",
+    "inn": 752705689853960,
+    "kpp": 376509643
+  },
+  {
+    "id": 43,
+    "name_short": "kQutMRQe",
+    "name_full": "ScvRPRXaIwJwMIqWKBmO",
+    "inn": 869652686223347,
+    "kpp": 884735836
+  },
+  {
+    "id": 44,
+    "name_short": "iIxlQpZu",
+    "name_full": "IeMYzTIXvYyxewTWsJkj",
+    "inn": 629980842684944,
+    "kpp": 105463879
+  },
+  {
+    "id": 45,
+    "name_short": "NrDsJcjV",
+    "name_full": "CxulTPcnTWNNpfosJIhN",
+    "inn": 898322574565481,
+    "kpp": 444511708
+  },
+  {
+    "id": 46,
+    "name_short": "DmwauOnr",
+    "name_full": "fAogrxELXgleBSnMRNKo",
+    "inn": 369320625459658,
+    "kpp": 961687846
+  },
+  {
+    "id": 47,
+    "name_short": "zyqKJFZO",
+    "name_full": "oDNYadvmVwVFemuhwUlE",
+    "inn": 451824622935124,
+    "kpp": 959100853
+  },
+  {
+    "id": 48,
+    "name_short": "aPZAZuMw",
+    "name_full": "XhvIyvrkBhpOrEsslqMe",
+    "inn": 462802211939740,
+    "kpp": 576101253
+  },
+  {
+    "id": 49,
+    "name_short": "MSXslPzr",
+    "name_full": "wquKsCQmxJcQXRctDOXZ",
+    "inn": 978536449328423,
+    "kpp": 629173431
+  },
+  {
+    "id": 50,
+    "name_short": "aDATjBVE",
+    "name_full": "PhaDcjYzQDEBSDgjwjMC",
+    "inn": 322449406078972,
+    "kpp": 819264611
+  },
+  {
+    "id": 51,
+    "name_short": "JllhliOG",
+    "name_full": "ScmAFdTRBcLNPNuhvXqn",
+    "inn": 223136380150090,
+    "kpp": 669898689
+  },
+  {
+    "id": 52,
+    "name_short": "fONHMMlH",
+    "name_full": "BHVWUOCRcDfprwUBkVVa",
+    "inn": 563523134091484,
+    "kpp": 162199805
+  },
+  {
+    "id": 53,
+    "name_short": "HPttNAHH",
+    "name_full": "uZKvSLIChJipEkhcDucL",
+    "inn": 406336861608535,
+    "kpp": 682833156
+  },
+  {
+    "id": 54,
+    "name_short": "RJoupYad",
+    "name_full": "daAsySeswhmQnYfZaDBC",
+    "inn": 503306172590482,
+    "kpp": 727666066
+  },
+  {
+    "id": 55,
+    "name_short": "MpbZnqGO",
+    "name_full": "luniLrwHuBPUaibrtGIC",
+    "inn": 877417609673296,
+    "kpp": 188997745
+  },
+  {
+    "id": 56,
+    "name_short": "jXmvyHsw",
+    "name_full": "rUZuzlCYKxEGbbrPYYxj",
+    "inn": 858645614057550,
+    "kpp": 864291813
+  },
+  {
+    "id": 57,
+    "name_short": "JGjqVvdp",
+    "name_full": "PiJmzISvjvEqBUkHZvIE",
+    "inn": 657785232226291,
+    "kpp": 751491504
+  },
+  {
+    "id": 58,
+    "name_short": "irOynmZS",
+    "name_full": "WmnWnQGQvFTeOvgQeqEk",
+    "inn": 993883965920273,
+    "kpp": 470687829
+  },
+  {
+    "id": 59,
+    "name_short": "dHCrddJN",
+    "name_full": "BOYaFrmYHtxJGINVgFnB",
+    "inn": 907606864634025,
+    "kpp": 903034751
+  },
+  {
+    "id": 60,
+    "name_short": "bqxoVzEz",
+    "name_full": "xFMuejoffcNrUjkQzCvo",
+    "inn": 391951171065101,
+    "kpp": 776900141
+  },
+  {
+    "id": 61,
+    "name_short": "mvbXcYIN",
+    "name_full": "UZEaTxZPfzqhLASXuqly",
+    "inn": 141469901962048,
+    "kpp": 671417761
+  },
+  {
+    "id": 62,
+    "name_short": "XGhxyRqa",
+    "name_full": "NMTAhOdzcfWEWAHCkUsv",
+    "inn": 759095594399818,
+    "kpp": 202246612
+  },
+  {
+    "id": 63,
+    "name_short": "kkEKvBFv",
+    "name_full": "NRMOdTDZDEVpJrtsulCt",
+    "inn": 130509621927170,
+    "kpp": 626378583
+  },
+  {
+    "id": 64,
+    "name_short": "VxUzFfnp",
+    "name_full": "TRfilgfgVEVdsQjmglTx",
+    "inn": 696639727868329,
+    "kpp": 518892494
+  },
+  {
+    "id": 65,
+    "name_short": "GzTAtmoA",
+    "name_full": "vBfDJrYWBHDWggnTDxRr",
+    "inn": 321555462858866,
+    "kpp": 910353830
+  },
+  {
+    "id": 66,
+    "name_short": "InVrXSII",
+    "name_full": "LkUYONWgrkiUyYymUYvn",
+    "inn": 277809132917701,
+    "kpp": 945506038
+  },
+  {
+    "id": 67,
+    "name_short": "ZcfMQLqt",
+    "name_full": "RHWztIGIjFMOpXrmbzfs",
+    "inn": 808919875635289,
+    "kpp": 758701480
+  },
+  {
+    "id": 68,
+    "name_short": "GnGyTakL",
+    "name_full": "DisJCqaveCjvmCyprMBb",
+    "inn": 817183401279920,
+    "kpp": 447859060
+  },
+  {
+    "id": 69,
+    "name_short": "ggjRSnWp",
+    "name_full": "HOeXwUqyJqGmooQZSzqR",
+    "inn": 186065382012156,
+    "kpp": 877745047
+  },
+  {
+    "id": 70,
+    "name_short": "wWRocFLM",
+    "name_full": "gXnnoScUpAJBUaxPRNTj",
+    "inn": 879135871199151,
+    "kpp": 547398138
+  },
+  {
+    "id": 71,
+    "name_short": "DmDoApae",
+    "name_full": "qlzzFjBipJylqPMNKqOw",
+    "inn": 623990343039680,
+    "kpp": 831009596
+  },
+  {
+    "id": 72,
+    "name_short": "IlJEzHgw",
+    "name_full": "tIrWLcggsLENZnIrgyIF",
+    "inn": 231164859973408,
+    "kpp": 837477516
+  },
+  {
+    "id": 73,
+    "name_short": "GOHYNtYj",
+    "name_full": "TpaQMaegxXgrBFSpaEYr",
+    "inn": 618307029896007,
+    "kpp": 613800892
+  },
+  {
+    "id": 74,
+    "name_short": "BYuyqCCM",
+    "name_full": "gQfeKtOuPboXLxsWEaHD",
+    "inn": 848426556697715,
+    "kpp": 135373397
+  },
+  {
+    "id": 75,
+    "name_short": "EqhHVEgC",
+    "name_full": "ywGfafnnQnJsJbyTVXGQ",
+    "inn": 126531485122380,
+    "kpp": 773977114
+  },
+  {
+    "id": 76,
+    "name_short": "RRTnkhVG",
+    "name_full": "AsVlqiLMLnlgIMUzHgVu",
+    "inn": 479944135020789,
+    "kpp": 155593784
+  },
+  {
+    "id": 77,
+    "name_short": "yRlLAMpl",
+    "name_full": "hgxqCgPiAVmMTNntaTlv",
+    "inn": 847235525964118,
+    "kpp": 889020171
+  },
+  {
+    "id": 78,
+    "name_short": "DEqjkEtj",
+    "name_full": "kBzQOIFVzIXHCOnRRIZk",
+    "inn": 972495392854674,
+    "kpp": 670053618
+  },
+  {
+    "id": 79,
+    "name_short": "UNqPjnqT",
+    "name_full": "DpqUvfncvqAUPFMtUMea",
+    "inn": 984315516763113,
+    "kpp": 514420648
+  },
+  {
+    "id": 80,
+    "name_short": "KeguYNGL",
+    "name_full": "QtXvykgcTYHlbXHzfgaW",
+    "inn": 959802699397814,
+    "kpp": 415489614
+  },
+  {
+    "id": 81,
+    "name_short": "pMhJepBZ",
+    "name_full": "YAkcyTIXyrwwtFjAJDvi",
+    "inn": 506923401353770,
+    "kpp": 252252503
+  },
+  {
+    "id": 82,
+    "name_short": "MEJWZJcN",
+    "name_full": "ckhefMdwOFcXUtGhYprM",
+    "inn": 560587754011255,
+    "kpp": 675793385
+  },
+  {
+    "id": 83,
+    "name_short": "hGhDPBrU",
+    "name_full": "klfMRPVeYuUySwfgNvmE",
+    "inn": 582979003282630,
+    "kpp": 342227659
+  },
+  {
+    "id": 84,
+    "name_short": "WUeepPYU",
+    "name_full": "VqdTaVSDiPddqcibEqzo",
+    "inn": 132342418725101,
+    "kpp": 718311657
+  },
+  {
+    "id": 85,
+    "name_short": "uffkYFKt",
+    "name_full": "PiuvMdukNIIucZxawCmv",
+    "inn": 198030973633425,
+    "kpp": 226849557
+  },
+  {
+    "id": 86,
+    "name_short": "dhQViBix",
+    "name_full": "suvbmmfEUfrwKyOdoGVs",
+    "inn": 527571390573570,
+    "kpp": 721581578
+  },
+  {
+    "id": 87,
+    "name_short": "LIjXfYpM",
+    "name_full": "EqYdPVUqoEPPEyjuOfeX",
+    "inn": 360539019257885,
+    "kpp": 798142841
+  },
+  {
+    "id": 88,
+    "name_short": "IxxYrtsH",
+    "name_full": "KvmIyNHIoitZYNQpoCwY",
+    "inn": 947881401209573,
+    "kpp": 473395245
+  },
+  {
+    "id": 89,
+    "name_short": "ockMwFxd",
+    "name_full": "rOYeKQSWmwjmzmASBEfu",
+    "inn": 523574176076972,
+    "kpp": 363446949
+  },
+  {
+    "id": 90,
+    "name_short": "JmrsYRyb",
+    "name_full": "xdqZjHwPniRQmBgUNGtN",
+    "inn": 875414915529378,
+    "kpp": 195071286
+  },
+  {
+    "id": 91,
+    "name_short": "WqgFaPEK",
+    "name_full": "mFcWYyScGebpzjkbEyWe",
+    "inn": 541701306197760,
+    "kpp": 227016193
+  },
+  {
+    "id": 92,
+    "name_short": "nmdcpABZ",
+    "name_full": "REnQRZrnqdiaREaqdUcm",
+    "inn": 514958856952618,
+    "kpp": 373103411
+  },
+  {
+    "id": 93,
+    "name_short": "ZcYzqWiu",
+    "name_full": "GGCvLnqZBYeNqHUPwwDo",
+    "inn": 130357425998943,
+    "kpp": 306542239
+  },
+  {
+    "id": 94,
+    "name_short": "nZxRtcKD",
+    "name_full": "nQcGEqqGKcZoIxTfaCIj",
+    "inn": 172748107266043,
+    "kpp": 473541302
+  },
+  {
+    "id": 95,
+    "name_short": "pMEPePGw",
+    "name_full": "UEiNetOXxltQOUYemfmG",
+    "inn": 394813194916261,
+    "kpp": 598769145
+  },
+  {
+    "id": 96,
+    "name_short": "wwQOqDbO",
+    "name_full": "YwGZBhKlkEaqYtCOGPoN",
+    "inn": 563234387065909,
+    "kpp": 293731302
+  },
+  {
+    "id": 97,
+    "name_short": "bIYeaKpt",
+    "name_full": "tywHvJVwwAkXVXxMJtLM",
+    "inn": 216061978939017,
+    "kpp": 771690422
+  },
+  {
+    "id": 98,
+    "name_short": "fRaSmWky",
+    "name_full": "UekpcsAXqBQEzyjaiAdm",
+    "inn": 326934152114919,
+    "kpp": 601855793
+  },
+  {
+    "id": 99,
+    "name_short": "luDEyqZK",
+    "name_full": "DGanPNWllLNbFfXrPMhP",
+    "inn": 648913945012388,
+    "kpp": 521438748
+  },
+  {
+    "id": 100,
+    "name_short": "GydgScSd",
+    "name_full": "sVvgmcUBgwYcdEQfkJME",
+    "inn": 438422420496547,
+    "kpp": 172547863
+  },
+  {
+    "id": 101,
+    "name_short": "dSUEfrKa",
+    "name_full": "cqUADFrKRWYIgCLEteDb",
+    "inn": 298617881454748,
+    "kpp": 564730519
+  },
+  {
+    "id": 102,
+    "name_short": "HMObhpET",
+    "name_full": "datlmNzXxpaLCgvtoAvU",
+    "inn": 100906113335081,
+    "kpp": 846569275
+  },
+  {
+    "id": 103,
+    "name_short": "dtulkMNn",
+    "name_full": "OhMgrnKvGwOUrGYkJxnI",
+    "inn": 476091947857308,
+    "kpp": 491039196
+  },
+  {
+    "id": 104,
+    "name_short": "gdcXqdgX",
+    "name_full": "AanQGCDTgVCVROeOgmZU",
+    "inn": 171992011848057,
+    "kpp": 890080766
+  },
+  {
+    "id": 105,
+    "name_short": "HjHyNnjH",
+    "name_full": "pHmMJkpsIfHFxTSOKDYQ",
+    "inn": 728644115868584,
+    "kpp": 491034305
+  },
+  {
+    "id": 106,
+    "name_short": "Tzqyqykj",
+    "name_full": "LoDabgovWIZVtKBlCGxJ",
+    "inn": 756905309573259,
+    "kpp": 717303027
+  },
+  {
+    "id": 107,
+    "name_short": "AYDpFeAb",
+    "name_full": "idEYpbGfuPlLfmKOjIuv",
+    "inn": 285921407235335,
+    "kpp": 177917666
+  },
+  {
+    "id": 108,
+    "name_short": "KDdxZBaA",
+    "name_full": "PjcptoHsOlXPuvNOKMwZ",
+    "inn": 511508124278350,
+    "kpp": 116996143
+  },
+  {
+    "id": 109,
+    "name_short": "ylJXjlrf",
+    "name_full": "snNWsuZIMtWORSJNJRqd",
+    "inn": 212459540958624,
+    "kpp": 323003217
+  },
+  {
+    "id": 110,
+    "name_short": "WDcDVBPw",
+    "name_full": "lYSTVjvWSYAZBkztwOXM",
+    "inn": 122266888689318,
+    "kpp": 145616598
+  },
+  {
+    "id": 111,
+    "name_short": "dFyNgvPM",
+    "name_full": "TnkPPzNMSqTqnTKLrRrP",
+    "inn": 934698110343727,
+    "kpp": 314984394
+  },
+  {
+    "id": 112,
+    "name_short": "JwmvbMHi",
+    "name_full": "QBjjfBtwtyWFeazyPDqi",
+    "inn": 519663545827142,
+    "kpp": 690456811
+  },
+  {
+    "id": 113,
+    "name_short": "AONtYBXU",
+    "name_full": "CtKplvYokUmMQVmJFSRx",
+    "inn": 896102638435961,
+    "kpp": 329697601
+  },
+  {
+    "id": 114,
+    "name_short": "ZVQyOTUW",
+    "name_full": "ntRRATnWpAKMwPUBlMUo",
+    "inn": 288849999372371,
+    "kpp": 800634614
+  },
+  {
+    "id": 115,
+    "name_short": "BGbuahgI",
+    "name_full": "xsynEMbdScWEOFhiVzSI",
+    "inn": 808554663307329,
+    "kpp": 975067088
+  },
+  {
+    "id": 116,
+    "name_short": "wfWaMDbu",
+    "name_full": "PNiZRhCwpiyoLLXIqwRk",
+    "inn": 980563793906828,
+    "kpp": 645687978
+  },
+  {
+    "id": 117,
+    "name_short": "QhqLlsdd",
+    "name_full": "NKvuNYLlXTkWCffCFWif",
+    "inn": 861257454940590,
+    "kpp": 712108502
+  },
+  {
+    "id": 118,
+    "name_short": "VNhjlgJM",
+    "name_full": "ocDWRRusiwfwrTrGcuRt",
+    "inn": 947520434841186,
+    "kpp": 796066895
+  },
+  {
+    "id": 119,
+    "name_short": "sMvWeGZG",
+    "name_full": "CaGPCloIajcAPvDrsGnd",
+    "inn": 880447920277831,
+    "kpp": 450029927
+  },
+  {
+    "id": 120,
+    "name_short": "aFYtjHoY",
+    "name_full": "gqmEQfPOuImSjtfkVuzE",
+    "inn": 855094750558380,
+    "kpp": 850862992
+  },
+  {
+    "id": 121,
+    "name_short": "TriLVbIs",
+    "name_full": "QxwpTXloAlqmpExhZhKv",
+    "inn": 729889824924196,
+    "kpp": 108763045
+  },
+  {
+    "id": 122,
+    "name_short": "NAzjnEyg",
+    "name_full": "hBgHWqydJMHOiHEvwtOd",
+    "inn": 703969833896155,
+    "kpp": 888115443
+  },
+  {
+    "id": 123,
+    "name_short": "yIZEAWkT",
+    "name_full": "ReXQOkROjHSNKhBGOpme",
+    "inn": 201123870089511,
+    "kpp": 477192137
+  },
+  {
+    "id": 124,
+    "name_short": "EJpvZXnv",
+    "name_full": "MDjKdswXXHhKWrkCQoKK",
+    "inn": 891757301677610,
+    "kpp": 198669478
+  },
+  {
+    "id": 125,
+    "name_short": "dSkUNHDd",
+    "name_full": "kTLftMwRBWZfhFilTttD",
+    "inn": 774554603209138,
+    "kpp": 721689047
+  },
+  {
+    "id": 126,
+    "name_short": "OFLJuQuz",
+    "name_full": "pQsTLmiaAezHpkHhhuwg",
+    "inn": 109654258557763,
+    "kpp": 718254050
+  },
+  {
+    "id": 127,
+    "name_short": "ujcPNyZt",
+    "name_full": "bAbTdBMqPcKZqxEvHZvY",
+    "inn": 828152022646521,
+    "kpp": 466596510
+  },
+  {
+    "id": 128,
+    "name_short": "KDUqqOES",
+    "name_full": "tedutimWucsARkoyjRDe",
+    "inn": 735199198867586,
+    "kpp": 187378384
+  },
+  {
+    "id": 129,
+    "name_short": "nDAdjeep",
+    "name_full": "ePzprrlKcEsGFMlAPXZY",
+    "inn": 772385362543191,
+    "kpp": 598767675
+  },
+  {
+    "id": 130,
+    "name_short": "KSATGbMr",
+    "name_full": "pApFQIZUbPaatEbLqrzK",
+    "inn": 621461858657650,
+    "kpp": 376121946
+  },
+  {
+    "id": 131,
+    "name_short": "eKAXDaXq",
+    "name_full": "mppLJPFQxYaoQSlfYPYW",
+    "inn": 723855181864784,
+    "kpp": 381847374
+  },
+  {
+    "id": 132,
+    "name_short": "vnCXqnzc",
+    "name_full": "dPAcVoqefLOokxzYxlZb",
+    "inn": 346639305527912,
+    "kpp": 499741360
+  },
+  {
+    "id": 133,
+    "name_short": "JgxnGVCe",
+    "name_full": "uBOlGABtBjgJFwRGqnlb",
+    "inn": 616213121194177,
+    "kpp": 861979012
+  },
+  {
+    "id": 134,
+    "name_short": "mOCpJZeA",
+    "name_full": "NnLizPjiWJzJfmFXGjjp",
+    "inn": 280567699612699,
+    "kpp": 619132746
+  },
+  {
+    "id": 135,
+    "name_short": "tsKHwKBo",
+    "name_full": "qDOcSTWGmRUWBZJXbkuf",
+    "inn": 128122649850792,
+    "kpp": 253733893
+  },
+  {
+    "id": 136,
+    "name_short": "OZDUZFBW",
+    "name_full": "zOAVmuVZDDWWtDNvRDrK",
+    "inn": 841254399405966,
+    "kpp": 398403602
+  },
+  {
+    "id": 137,
+    "name_short": "rGfbYxux",
+    "name_full": "XyRJHcexETigtxRzSvTm",
+    "inn": 120526606896056,
+    "kpp": 259847505
+  },
+  {
+    "id": 138,
+    "name_short": "fvlfDBho",
+    "name_full": "cQnQVjLKJzsFxkqOeqTB",
+    "inn": 986704584346300,
+    "kpp": 847975029
+  },
+  {
+    "id": 139,
+    "name_short": "slqaEWSl",
+    "name_full": "NyYWYiJtuqtxrBuVuRHJ",
+    "inn": 822451545294106,
+    "kpp": 259730383
+  },
+  {
+    "id": 140,
+    "name_short": "vuoqyeJK",
+    "name_full": "dQntXIhGOKaMOCPwWIzt",
+    "inn": 852470138955351,
+    "kpp": 286702149
+  },
+  {
+    "id": 141,
+    "name_short": "NgwWiWjy",
+    "name_full": "MskfOyMyoltHYupxGHIJ",
+    "inn": 632930051455491,
+    "kpp": 974517118
+  },
+  {
+    "id": 142,
+    "name_short": "QQiLTooB",
+    "name_full": "OJJgHZPIDwqyhzFnnuUy",
+    "inn": 787244157812342,
+    "kpp": 795989523
+  },
+  {
+    "id": 143,
+    "name_short": "LWFPSEeW",
+    "name_full": "ZySqqPvAmeGghMfUlhLg",
+    "inn": 550300582254323,
+    "kpp": 191310337
+  },
+  {
+    "id": 144,
+    "name_short": "ZQofVDWw",
+    "name_full": "VTCbEZtlDAWZxUeezeLI",
+    "inn": 248597587423441,
+    "kpp": 864106762
+  },
+  {
+    "id": 145,
+    "name_short": "BWRwPcQZ",
+    "name_full": "ijbaYdxRozOOivhnVJgy",
+    "inn": 820512924093379,
+    "kpp": 949705307
+  },
+  {
+    "id": 146,
+    "name_short": "AsPyhFJR",
+    "name_full": "OlUTsyxHDLCgEtqfQxon",
+    "inn": 557799610749389,
+    "kpp": 189515466
+  },
+  {
+    "id": 147,
+    "name_short": "BMldWNDO",
+    "name_full": "fQPukuQndrArFpOMshtO",
+    "inn": 708920379234290,
+    "kpp": 776102671
+  },
+  {
+    "id": 148,
+    "name_short": "UthuYNCk",
+    "name_full": "fvTXZXXyypuunEHJoljU",
+    "inn": 416563127606460,
+    "kpp": 298781162
+  },
+  {
+    "id": 149,
+    "name_short": "yFiMiZWB",
+    "name_full": "NzAGDdrvlVaXenMPydRs",
+    "inn": 476774117781959,
+    "kpp": 906266917
+  },
+  {
+    "id": 150,
+    "name_short": "ROLYDqGc",
+    "name_full": "MIjKcCQkXKjQlPweiOHK",
+    "inn": 224989160119171,
+    "kpp": 922043776
+  },
+  {
+    "id": 151,
+    "name_short": "dDjzqtAW",
+    "name_full": "NvsTHAXaRYXiqXTnxGaq",
+    "inn": 230937660413389,
+    "kpp": 170584847
+  },
+  {
+    "id": 152,
+    "name_short": "AvkWQUnC",
+    "name_full": "glBepDhdbuZIeUgbGlrs",
+    "inn": 488278781088064,
+    "kpp": 655177959
+  },
+  {
+    "id": 153,
+    "name_short": "LRhucOJn",
+    "name_full": "xJyhfBrHpTuDMgGBXWIc",
+    "inn": 667520421340480,
+    "kpp": 896055756
+  },
+  {
+    "id": 154,
+    "name_short": "OohOlkgw",
+    "name_full": "jfXMGOOYZcWPZZXmziFx",
+    "inn": 992402715388979,
+    "kpp": 732606199
+  },
+  {
+    "id": 155,
+    "name_short": "KRHpAbJl",
+    "name_full": "HjPkNtdQDzHKbWzwivwy",
+    "inn": 243572495785222,
+    "kpp": 672440812
+  },
+  {
+    "id": 156,
+    "name_short": "srpODsAZ",
+    "name_full": "vsuMicQKHtFTqaeViZtB",
+    "inn": 664479672277964,
+    "kpp": 883304325
+  },
+  {
+    "id": 157,
+    "name_short": "eUrqiQEu",
+    "name_full": "YtSnsDjyRWQuzpCLHAph",
+    "inn": 631867120323988,
+    "kpp": 226666573
+  },
+  {
+    "id": 158,
+    "name_short": "NilkMOKw",
+    "name_full": "EebdHlRyflcXeEUPKVxY",
+    "inn": 379883288856911,
+    "kpp": 422497639
+  },
+  {
+    "id": 159,
+    "name_short": "ZqjKJnkc",
+    "name_full": "rQbwlExWmFOJOLdcvZZo",
+    "inn": 885223699736617,
+    "kpp": 960179060
+  },
+  {
+    "id": 160,
+    "name_short": "ZdhpLUmE",
+    "name_full": "lglSCmMkNsmtQzxHPCmO",
+    "inn": 597840969694798,
+    "kpp": 325173677
+  },
+  {
+    "id": 161,
+    "name_short": "aURvEIYr",
+    "name_full": "XGIDyNOgpUrkJZsUfHKN",
+    "inn": 979837429012511,
+    "kpp": 797851692
+  },
+  {
+    "id": 162,
+    "name_short": "eKGtXlpa",
+    "name_full": "QlTGOnGDvltVHeisPpLF",
+    "inn": 963082696169742,
+    "kpp": 952268857
+  },
+  {
+    "id": 163,
+    "name_short": "GDexfhzA",
+    "name_full": "pTHtRxekuRmaYsjqicto",
+    "inn": 254892416523232,
+    "kpp": 511209847
+  },
+  {
+    "id": 164,
+    "name_short": "ENmYfGQo",
+    "name_full": "ufvsiTSJGwSrLjwKdDhx",
+    "inn": 503984970685386,
+    "kpp": 181393806
+  },
+  {
+    "id": 165,
+    "name_short": "GtdjOFwY",
+    "name_full": "DAATEuvJbYKIzpHDMdav",
+    "inn": 524877209809811,
+    "kpp": 315736620
+  },
+  {
+    "id": 166,
+    "name_short": "dtKmhAdg",
+    "name_full": "lChXuOguPkUcudScswth",
+    "inn": 409793796950710,
+    "kpp": 540849793
+  },
+  {
+    "id": 167,
+    "name_short": "ZoloZonD",
+    "name_full": "ZqLlvNYoyVycSAABZOkS",
+    "inn": 363779498946739,
+    "kpp": 175769792
+  },
+  {
+    "id": 168,
+    "name_short": "VCVDBKgE",
+    "name_full": "qoMmsmhKBvoXMTmqzgra",
+    "inn": 446817396646481,
+    "kpp": 107982966
+  },
+  {
+    "id": 169,
+    "name_short": "lNTwECTn",
+    "name_full": "gAQjCBaLaGLZHTvBAsYO",
+    "inn": 210375915517743,
+    "kpp": 539320339
+  },
+  {
+    "id": 170,
+    "name_short": "uvvWaTQb",
+    "name_full": "VxugFnKbUnGwosYNNHzy",
+    "inn": 102938875258392,
+    "kpp": 194597618
+  },
+  {
+    "id": 171,
+    "name_short": "JcoNRyLS",
+    "name_full": "udWXgwWkoCXqMcrwxlIA",
+    "inn": 854005125308876,
+    "kpp": 449882937
+  },
+  {
+    "id": 172,
+    "name_short": "lZPkTTMS",
+    "name_full": "dsATmiOfWXKjPZXEujqI",
+    "inn": 247155850793442,
+    "kpp": 516270187
+  },
+  {
+    "id": 173,
+    "name_short": "jIOhssQx",
+    "name_full": "IMbVMDOKrPGzRdgqHEMi",
+    "inn": 596292362175166,
+    "kpp": 327221764
+  },
+  {
+    "id": 174,
+    "name_short": "udRqZeBl",
+    "name_full": "YPCrKEgOMZrDORqUWrGw",
+    "inn": 630304181612010,
+    "kpp": 786941272
+  },
+  {
+    "id": 175,
+    "name_short": "NuVqvwMM",
+    "name_full": "NwOvmGNgcdxAqhzMKrtS",
+    "inn": 739503288916068,
+    "kpp": 817039259
+  },
+  {
+    "id": 176,
+    "name_short": "dgvoAutf",
+    "name_full": "LQfcaRpbwFvMrylVVOuo",
+    "inn": 834865499773074,
+    "kpp": 588843372
+  },
+  {
+    "id": 177,
+    "name_short": "tWjHnVKZ",
+    "name_full": "cZhsYNBXvKoqaCUUVOJG",
+    "inn": 117635553190724,
+    "kpp": 186023705
+  },
+  {
+    "id": 178,
+    "name_short": "kfLpRzGB",
+    "name_full": "QNWdRsWFJdKYBzWKjwce",
+    "inn": 735572733908941,
+    "kpp": 634724850
+  },
+  {
+    "id": 179,
+    "name_short": "uznzvXcp",
+    "name_full": "BeekAWouGPyXFCLRIYcy",
+    "inn": 520638543876236,
+    "kpp": 242555912
+  },
+  {
+    "id": 180,
+    "name_short": "UMCAieNk",
+    "name_full": "XTHhLHGhfUGaGzhwLDjS",
+    "inn": 647754686362310,
+    "kpp": 446152100
+  },
+  {
+    "id": 181,
+    "name_short": "sIgSSrni",
+    "name_full": "DBBuIWrFckAljbALdeZm",
+    "inn": 663745891468018,
+    "kpp": 901026470
+  },
+  {
+    "id": 182,
+    "name_short": "MwmrUMBl",
+    "name_full": "WJJTRKWClgQXMjAYedNe",
+    "inn": 848881242602784,
+    "kpp": 480895286
+  },
+  {
+    "id": 183,
+    "name_short": "mwSIzDEc",
+    "name_full": "rOFEauVoPTHglXiMoonF",
+    "inn": 955527751335249,
+    "kpp": 228472517
+  },
+  {
+    "id": 184,
+    "name_short": "idbKXVuo",
+    "name_full": "LfznoDgTBdGAzDblXPuw",
+    "inn": 838736441306873,
+    "kpp": 797672086
+  },
+  {
+    "id": 185,
+    "name_short": "aNDOwOEe",
+    "name_full": "trgVBwbBrQLHnLgcykMy",
+    "inn": 760697823841480,
+    "kpp": 133716288
+  },
+  {
+    "id": 186,
+    "name_short": "GQqjkByc",
+    "name_full": "NtZgbtyWnvkUAXNbFaUs",
+    "inn": 109715596683949,
+    "kpp": 214892112
+  },
+  {
+    "id": 187,
+    "name_short": "QbwTArPp",
+    "name_full": "DleUtNJbFBYHdCsldqYs",
+    "inn": 477580742514807,
+    "kpp": 430038360
+  },
+  {
+    "id": 188,
+    "name_short": "nUWKcPYq",
+    "name_full": "tijOjWdVCSkQiRfXURVv",
+    "inn": 593231684514560,
+    "kpp": 428197195
+  },
+  {
+    "id": 189,
+    "name_short": "eElaHJjO",
+    "name_full": "davYvLloZQsdajWZrJUK",
+    "inn": 209467885824733,
+    "kpp": 208055424
+  },
+  {
+    "id": 190,
+    "name_short": "MiDdfZwd",
+    "name_full": "ZZeCvmKsGMIQFqEAfqkW",
+    "inn": 375468847421113,
+    "kpp": 721081966
+  },
+  {
+    "id": 191,
+    "name_short": "VolPrCEM",
+    "name_full": "jOgVTKXrqhoKgmWIfeAs",
+    "inn": 770718813793327,
+    "kpp": 910692768
+  },
+  {
+    "id": 192,
+    "name_short": "qFgLNrnn",
+    "name_full": "JBLnOUVUkSvGhTkSKlBo",
+    "inn": 257852621537713,
+    "kpp": 423510292
+  },
+  {
+    "id": 193,
+    "name_short": "xQIatlVi",
+    "name_full": "izPVSRsACEWtjEZKsewi",
+    "inn": 844306519256903,
+    "kpp": 176043115
+  },
+  {
+    "id": 194,
+    "name_short": "MrvETzhF",
+    "name_full": "iKujWITirFJXNRplTxyP",
+    "inn": 369832854976271,
+    "kpp": 237658787
+  },
+  {
+    "id": 195,
+    "name_short": "QatxzlpM",
+    "name_full": "olKrHxZnXnHYXuirFiQQ",
+    "inn": 993506120174571,
+    "kpp": 110313250
+  },
+  {
+    "id": 196,
+    "name_short": "pjIFYCtp",
+    "name_full": "fLQwchOCxzHLWcTTMtiP",
+    "inn": 350463414502216,
+    "kpp": 348189258
+  },
+  {
+    "id": 197,
+    "name_short": "UCzIAZla",
+    "name_full": "jVmNmCuHEaUdMIPLrAuY",
+    "inn": 211337635302689,
+    "kpp": 801091569
+  },
+  {
+    "id": 198,
+    "name_short": "TNrJZvhp",
+    "name_full": "guRYFxHFcZKAVuRnVMwa",
+    "inn": 727487450696924,
+    "kpp": 964239635
+  },
+  {
+    "id": 199,
+    "name_short": "yeHqtBSy",
+    "name_full": "OyqNabUfomGNIVajDETX",
+    "inn": 469410124082618,
+    "kpp": 629464919
+  },
+  {
+    "id": 200,
+    "name_short": "kNCXcIbt",
+    "name_full": "pQcGUUsyfIbPnVsNiGmb",
+    "inn": 638777525582486,
+    "kpp": 807573114
+  },
+  {
+    "id": 201,
+    "name_short": "dMoGnOpZ",
+    "name_full": "cYlxwQtpsSjjwQrCvJdW",
+    "inn": 558504641030367,
+    "kpp": 491097945
+  },
+  {
+    "id": 202,
+    "name_short": "quwUVqas",
+    "name_full": "vLsQtrnefqcINaYaObrk",
+    "inn": 165338228726916,
+    "kpp": 334144247
+  },
+  {
+    "id": 203,
+    "name_short": "LxGwIIxq",
+    "name_full": "hpmBvmiazcPNGvggsPRr",
+    "inn": 171415004600957,
+    "kpp": 141141392
+  },
+  {
+    "id": 204,
+    "name_short": "qFJkjNuw",
+    "name_full": "XPREsprsQfieuxZuctEm",
+    "inn": 207190855767198,
+    "kpp": 462496454
+  },
+  {
+    "id": 205,
+    "name_short": "MvDqpKyu",
+    "name_full": "ouxmnAnpVCCBwzHtDKpX",
+    "inn": 724576336158337,
+    "kpp": 361045948
+  },
+  {
+    "id": 206,
+    "name_short": "zOHPOhVL",
+    "name_full": "oJwyqnOAxNSfKtvNWZdx",
+    "inn": 665291094141572,
+    "kpp": 478905887
+  },
+  {
+    "id": 207,
+    "name_short": "hjRvdWjx",
+    "name_full": "ceZANBhAmsbDGFjFVxBn",
+    "inn": 480826597572027,
+    "kpp": 571939098
+  },
+  {
+    "id": 208,
+    "name_short": "BKEsnWeV",
+    "name_full": "tCXuKzwHYymsQMAtujgn",
+    "inn": 644675708992271,
+    "kpp": 876231676
+  },
+  {
+    "id": 209,
+    "name_short": "wGGGsyKX",
+    "name_full": "ySFzepZonetQUGSzJLtc",
+    "inn": 557496886912185,
+    "kpp": 376032909
+  },
+  {
+    "id": 210,
+    "name_short": "lYubiNMC",
+    "name_full": "YpegUNprraUupFmmlSTc",
+    "inn": 185055877703933,
+    "kpp": 865238029
+  },
+  {
+    "id": 211,
+    "name_short": "vhWJQmhw",
+    "name_full": "UrvDWpxBYPGeFiolZgey",
+    "inn": 374519297079930,
+    "kpp": 792118114
+  },
+  {
+    "id": 212,
+    "name_short": "bLFjJAgK",
+    "name_full": "jkmgOZCxrNTzxJUyAWHL",
+    "inn": 968207816175715,
+    "kpp": 537135652
+  },
+  {
+    "id": 213,
+    "name_short": "kimIwMlx",
+    "name_full": "JXIgkvuqpaBhDMolIebg",
+    "inn": 389600166683592,
+    "kpp": 805086807
+  },
+  {
+    "id": 214,
+    "name_short": "TgDjNNwl",
+    "name_full": "bIfWSJFeFthfwMDPOWMZ",
+    "inn": 831503315043084,
+    "kpp": 262771695
+  },
+  {
+    "id": 215,
+    "name_short": "gbqBBNke",
+    "name_full": "ZtrmCDUtDcwCsbeojXMg",
+    "inn": 480153861361024,
+    "kpp": 440626839
+  },
+  {
+    "id": 216,
+    "name_short": "gNLfwbSM",
+    "name_full": "TSFdWcbbAeuitauNzRQU",
+    "inn": 244292170063939,
+    "kpp": 179210878
+  },
+  {
+    "id": 217,
+    "name_short": "iKqAmHXO",
+    "name_full": "cgzFASxvvCDnbaywVldf",
+    "inn": 144756125695492,
+    "kpp": 157885970
+  },
+  {
+    "id": 218,
+    "name_short": "GKhLRHrU",
+    "name_full": "CgNWMEOchewRVdTtPAcJ",
+    "inn": 421504293916543,
+    "kpp": 507903499
+  },
+  {
+    "id": 219,
+    "name_short": "vVlLyoyy",
+    "name_full": "OwPzpjZwIiLTfPdqLovA",
+    "inn": 130546940787314,
+    "kpp": 678811847
+  },
+  {
+    "id": 220,
+    "name_short": "zKljUTvz",
+    "name_full": "JoJksNBTSRgukQZLRPln",
+    "inn": 818652884910952,
+    "kpp": 304973199
+  },
+  {
+    "id": 221,
+    "name_short": "gjsEmXTf",
+    "name_full": "dTBnydiWeTvLZGzXpFXq",
+    "inn": 259822050563964,
+    "kpp": 188162727
+  },
+  {
+    "id": 222,
+    "name_short": "PcEySxcm",
+    "name_full": "XvLrAcJPFAcwbbtTsqnm",
+    "inn": 684299606789447,
+    "kpp": 544703700
+  },
+  {
+    "id": 223,
+    "name_short": "aZBthAKy",
+    "name_full": "hyAJilhsToYXbOUxHvHN",
+    "inn": 205891930195727,
+    "kpp": 371170184
+  },
+  {
+    "id": 224,
+    "name_short": "aSgGgSIf",
+    "name_full": "YUpipRUuLOlFaEVSyEos",
+    "inn": 950503715160014,
+    "kpp": 438607519
+  },
+  {
+    "id": 225,
+    "name_short": "ETLoNRvu",
+    "name_full": "RqEdklEuPiNCncHJFVCm",
+    "inn": 921977425627295,
+    "kpp": 315774324
+  },
+  {
+    "id": 226,
+    "name_short": "sUnXsTAe",
+    "name_full": "uhOoxkwLOrmbSJKOKyrt",
+    "inn": 986636536340372,
+    "kpp": 767282789
+  },
+  {
+    "id": 227,
+    "name_short": "hQgaxjSa",
+    "name_full": "iuFZCbBFOWRkmDPmJjTR",
+    "inn": 155408387471234,
+    "kpp": 913527449
+  },
+  {
+    "id": 228,
+    "name_short": "sXFQhNmF",
+    "name_full": "SzjRRAoNRDEwyhdkudpA",
+    "inn": 828404096635696,
+    "kpp": 652602802
+  },
+  {
+    "id": 229,
+    "name_short": "XhjyxDQb",
+    "name_full": "igeSfqIbAvQnjAoABtyr",
+    "inn": 176264370446273,
+    "kpp": 466110309
+  },
+  {
+    "id": 230,
+    "name_short": "XXZccwtp",
+    "name_full": "zlhpWQOkjjrZFtllgwZz",
+    "inn": 389683414905941,
+    "kpp": 979548554
+  },
+  {
+    "id": 231,
+    "name_short": "LonUmBOI",
+    "name_full": "ZblsMiqPifTiFoJZeYVm",
+    "inn": 546427955589736,
+    "kpp": 905635908
+  },
+  {
+    "id": 232,
+    "name_short": "ewbdsbji",
+    "name_full": "akWkOEafeMVLdHmHyRMp",
+    "inn": 821909418680555,
+    "kpp": 421396636
+  },
+  {
+    "id": 233,
+    "name_short": "PNqAnCrw",
+    "name_full": "UvKDhssNLJjytqWxoLBL",
+    "inn": 802503045446641,
+    "kpp": 172584563
+  },
+  {
+    "id": 234,
+    "name_short": "pgXHiaPs",
+    "name_full": "jZGlpevQHkOckJDfqSUB",
+    "inn": 483695231625480,
+    "kpp": 180803723
+  },
+  {
+    "id": 235,
+    "name_short": "AradYMqv",
+    "name_full": "SDMDwgWfeUhssrtUcFZs",
+    "inn": 808744883419191,
+    "kpp": 331021163
+  },
+  {
+    "id": 236,
+    "name_short": "nKmgVllm",
+    "name_full": "jEXwLzVjespvOqSgQfJK",
+    "inn": 902952531729682,
+    "kpp": 268673545
+  },
+  {
+    "id": 237,
+    "name_short": "OerhTvyR",
+    "name_full": "XwkvdTsKmJYRUzOnALur",
+    "inn": 487552353661811,
+    "kpp": 658993663
+  },
+  {
+    "id": 238,
+    "name_short": "McxXbUEZ",
+    "name_full": "gWpafUiipJECFnshBzDM",
+    "inn": 883824186081289,
+    "kpp": 819780210
+  },
+  {
+    "id": 239,
+    "name_short": "MICZsYXn",
+    "name_full": "CapUOCOrSDWNEduNhtaD",
+    "inn": 542067755160218,
+    "kpp": 381337587
+  },
+  {
+    "id": 240,
+    "name_short": "dsBQJXwD",
+    "name_full": "fiASSdWAfTZcvsPIsRwD",
+    "inn": 609598750939558,
+    "kpp": 847030004
+  },
+  {
+    "id": 241,
+    "name_short": "iaBwgaVJ",
+    "name_full": "HKKyhhemMwGGDXaKLgiA",
+    "inn": 416185383926035,
+    "kpp": 133030188
+  },
+  {
+    "id": 242,
+    "name_short": "lECARZCI",
+    "name_full": "rZirNuwJZbaKiPvVaxfB",
+    "inn": 997213147445557,
+    "kpp": 656647627
+  },
+  {
+    "id": 243,
+    "name_short": "jdvPqUTB",
+    "name_full": "znOTgEfTmhAdEiwbStJX",
+    "inn": 716439045579201,
+    "kpp": 459925439
+  },
+  {
+    "id": 244,
+    "name_short": "mvlWBjjN",
+    "name_full": "YucStWfLUTCJfQVCNxja",
+    "inn": 320123551079338,
+    "kpp": 287907897
+  },
+  {
+    "id": 245,
+    "name_short": "RjRLJvlr",
+    "name_full": "umTRpcohcfyvCccSOvTp",
+    "inn": 597668194549728,
+    "kpp": 861247556
+  },
+  {
+    "id": 246,
+    "name_short": "BvyHkpAC",
+    "name_full": "jOVKaYuUEOvuptZMWlXu",
+    "inn": 559919843264195,
+    "kpp": 655754700
+  },
+  {
+    "id": 247,
+    "name_short": "PZdOWmKY",
+    "name_full": "MLSfLqjzLxQidUfgmHTv",
+    "inn": 993924076485888,
+    "kpp": 460416106
+  },
+  {
+    "id": 248,
+    "name_short": "zcLUTboB",
+    "name_full": "iHuiRvSTYZUnxnMAGYXc",
+    "inn": 824483046018374,
+    "kpp": 389057522
+  },
+  {
+    "id": 249,
+    "name_short": "ujSVTWdT",
+    "name_full": "vaRoXIPmuRJdFqISrLUS",
+    "inn": 265867984374348,
+    "kpp": 122008345
+  },
+  {
+    "id": 250,
+    "name_short": "DfQvFUHn",
+    "name_full": "RbiazRDjqWbKkhyHbqlT",
+    "inn": 906083099552360,
+    "kpp": 876576197
+  },
+  {
+    "id": 251,
+    "name_short": "iOLLOxaL",
+    "name_full": "mORTEgeKWsRFbTelywZA",
+    "inn": 545744222929089,
+    "kpp": 776314549
+  },
+  {
+    "id": 252,
+    "name_short": "nLJEATra",
+    "name_full": "DemPMVeALQspnkQIHVdU",
+    "inn": 633250004240020,
+    "kpp": 475340117
+  },
+  {
+    "id": 253,
+    "name_short": "syHeUeNP",
+    "name_full": "uJuKYwrcKsbGXGCpFwqV",
+    "inn": 394316237445234,
+    "kpp": 298545140
+  },
+  {
+    "id": 254,
+    "name_short": "RTSXARjX",
+    "name_full": "piEGLlaWelMrneSgxhUV",
+    "inn": 905515719041119,
+    "kpp": 733441657
+  },
+  {
+    "id": 255,
+    "name_short": "uKwYHNoo",
+    "name_full": "xlVcOlXVkAxagAkJAxtN",
+    "inn": 857804347400709,
+    "kpp": 815482834
+  },
+  {
+    "id": 256,
+    "name_short": "mgMAtTbL",
+    "name_full": "VwRyoCJTYeAOsoRTKOXk",
+    "inn": 533507445604235,
+    "kpp": 797765709
+  },
+  {
+    "id": 257,
+    "name_short": "NDWvYana",
+    "name_full": "GhoyVcOBfFcIaHZaJSDb",
+    "inn": 506780959094598,
+    "kpp": 990769824
+  },
+  {
+    "id": 258,
+    "name_short": "xJbCOqMG",
+    "name_full": "syucSvbYFnVbFCQJZspX",
+    "inn": 159950631878113,
+    "kpp": 522642754
+  },
+  {
+    "id": 259,
+    "name_short": "vRUDRUrw",
+    "name_full": "EYioAcRRZtcxkCTnIefR",
+    "inn": 291000898219033,
+    "kpp": 515403516
+  },
+  {
+    "id": 260,
+    "name_short": "lTOGbBLF",
+    "name_full": "YQJJjKwqTFOGcoHahVQV",
+    "inn": 662574665289159,
+    "kpp": 693123964
+  },
+  {
+    "id": 261,
+    "name_short": "ejXwVpME",
+    "name_full": "vGAVmwsSGneFyFLVXphC",
+    "inn": 758508007367120,
+    "kpp": 626421470
+  },
+  {
+    "id": 262,
+    "name_short": "LgGqpZua",
+    "name_full": "RYrobtQEjcHSrxiIBtbi",
+    "inn": 799432862240894,
+    "kpp": 866746065
+  },
+  {
+    "id": 263,
+    "name_short": "YZHnRsbb",
+    "name_full": "thKhwPynvSzTwEWBOPBE",
+    "inn": 432206594282338,
+    "kpp": 243954259
+  },
+  {
+    "id": 264,
+    "name_short": "LaLjbdco",
+    "name_full": "CbcTIuNzCLuLDQVZwWqv",
+    "inn": 386409844415423,
+    "kpp": 905170479
+  },
+  {
+    "id": 265,
+    "name_short": "UGAMSdFh",
+    "name_full": "WiJlrzCZKwPJxFlblTNa",
+    "inn": 795842941395640,
+    "kpp": 924528985
+  },
+  {
+    "id": 266,
+    "name_short": "gjcehYEj",
+    "name_full": "mDbABbKfxnHiyNyFxKHG",
+    "inn": 678371901205838,
+    "kpp": 670960609
+  },
+  {
+    "id": 267,
+    "name_short": "dGYWflAy",
+    "name_full": "TRHkgKflOdxkXDPJDStu",
+    "inn": 179767549267695,
+    "kpp": 109168690
+  },
+  {
+    "id": 268,
+    "name_short": "TADXuJMJ",
+    "name_full": "GGfREYWTLRVKPSCGMQfI",
+    "inn": 363484266340440,
+    "kpp": 130121478
+  },
+  {
+    "id": 269,
+    "name_short": "LjCsGLSS",
+    "name_full": "kTwSlZAbzZSPkMboyJyg",
+    "inn": 596236832929229,
+    "kpp": 109348971
+  },
+  {
+    "id": 270,
+    "name_short": "OoUdnHjw",
+    "name_full": "absbxPmAIDDjpcAPiprz",
+    "inn": 437644621090113,
+    "kpp": 295567879
+  },
+  {
+    "id": 271,
+    "name_short": "kxAgdRxj",
+    "name_full": "kLhyQXcnDnZCUBCuCaaK",
+    "inn": 771387069916754,
+    "kpp": 964278594
+  },
+  {
+    "id": 272,
+    "name_short": "jxGwvgzh",
+    "name_full": "lSRNpfsPWPuTFnuQjuEx",
+    "inn": 923597757093943,
+    "kpp": 473183612
+  },
+  {
+    "id": 273,
+    "name_short": "EYajkBHc",
+    "name_full": "VKPERGxWYyXrazPfhAJZ",
+    "inn": 957640176835280,
+    "kpp": 137749716
+  },
+  {
+    "id": 274,
+    "name_short": "MsKmAKvk",
+    "name_full": "wIaXVsyyxEhrFniamgLo",
+    "inn": 347654192533334,
+    "kpp": 479218711
+  },
+  {
+    "id": 275,
+    "name_short": "Rteszjmn",
+    "name_full": "DIxppTlyYFwsWqOXlbTM",
+    "inn": 815282407179964,
+    "kpp": 468725212
+  },
+  {
+    "id": 276,
+    "name_short": "pgnNzRAe",
+    "name_full": "GoBVzaoDThOBFPPJwDzR",
+    "inn": 462569819289529,
+    "kpp": 466804404
+  },
+  {
+    "id": 277,
+    "name_short": "HrDhgJoR",
+    "name_full": "sdOsRcgNFoYMiexaclGl",
+    "inn": 145004652288686,
+    "kpp": 851403311
+  },
+  {
+    "id": 278,
+    "name_short": "DWJMMtKA",
+    "name_full": "akASFNzsiXppBwfmfbly",
+    "inn": 820977097624070,
+    "kpp": 618746860
+  },
+  {
+    "id": 279,
+    "name_short": "kScISoES",
+    "name_full": "evMfbVDHpWUqzRpjSDvp",
+    "inn": 939007559144489,
+    "kpp": 445184066
+  },
+  {
+    "id": 280,
+    "name_short": "IXLywMwN",
+    "name_full": "lrRtAlQLGxrzMWZfannD",
+    "inn": 709324979960280,
+    "kpp": 588426704
+  },
+  {
+    "id": 281,
+    "name_short": "upDHQuOe",
+    "name_full": "iUAKSLefYLvjUoJLYrkR",
+    "inn": 700366270295719,
+    "kpp": 254110755
+  },
+  {
+    "id": 282,
+    "name_short": "lZPlXvxf",
+    "name_full": "MxmJItevnZpAXUCxpHWb",
+    "inn": 224870186078789,
+    "kpp": 260524400
+  },
+  {
+    "id": 283,
+    "name_short": "aTltQBcL",
+    "name_full": "WvNsRcmPmoVkjuQbkWVd",
+    "inn": 922888782299013,
+    "kpp": 358995274
+  },
+  {
+    "id": 284,
+    "name_short": "qnfBsOdw",
+    "name_full": "PQLjQTUmcfCpqXGxtIEC",
+    "inn": 390844521893186,
+    "kpp": 272824498
+  },
+  {
+    "id": 285,
+    "name_short": "NMSmkaSm",
+    "name_full": "CXjSCMMvAQKBRHFmnIUt",
+    "inn": 955082148740551,
+    "kpp": 342424784
+  },
+  {
+    "id": 286,
+    "name_short": "WPCMnGRR",
+    "name_full": "XojEZUvWAmcbkWJtoEvC",
+    "inn": 922970914629315,
+    "kpp": 662079435
+  },
+  {
+    "id": 287,
+    "name_short": "UaGaLFjO",
+    "name_full": "vUTVjRUhOSjqQeYptyox",
+    "inn": 516930408103738,
+    "kpp": 538738936
+  },
+  {
+    "id": 288,
+    "name_short": "rIoxakJc",
+    "name_full": "nzItEGQJePlNpoFuoqlz",
+    "inn": 591673541644886,
+    "kpp": 777034121
+  },
+  {
+    "id": 289,
+    "name_short": "vneGKfaY",
+    "name_full": "HrOHwXRbsokfPTbHBPld",
+    "inn": 248215203579822,
+    "kpp": 494262484
+  },
+  {
+    "id": 290,
+    "name_short": "qeUuvRFz",
+    "name_full": "nEGsVsWdNPBIyhiorgTg",
+    "inn": 425635695843614,
+    "kpp": 104299698
+  },
+  {
+    "id": 291,
+    "name_short": "zRpbLRcc",
+    "name_full": "SmUUbVluwOUanymgqOMa",
+    "inn": 542587676743626,
+    "kpp": 310535282
+  },
+  {
+    "id": 292,
+    "name_short": "DDvzQGOK",
+    "name_full": "TRzLyAMyMbfnmouHXFqY",
+    "inn": 747858965823258,
+    "kpp": 512566937
+  },
+  {
+    "id": 293,
+    "name_short": "EieUSnDT",
+    "name_full": "XYesasqrYftukbTAOEkC",
+    "inn": 376815196336265,
+    "kpp": 977806032
+  },
+  {
+    "id": 294,
+    "name_short": "PAqNMqEH",
+    "name_full": "SwNflsZjaAPaXxlDOriF",
+    "inn": 292373851739351,
+    "kpp": 553846973
+  },
+  {
+    "id": 295,
+    "name_short": "FrBhAUcY",
+    "name_full": "JmWAztnMQSBtAHBEXUJo",
+    "inn": 988657641694108,
+    "kpp": 135310602
+  },
+  {
+    "id": 296,
+    "name_short": "TymmfzMF",
+    "name_full": "okiKdYuWwuqkqvoPvnAq",
+    "inn": 596841940194872,
+    "kpp": 582147600
+  },
+  {
+    "id": 297,
+    "name_short": "IJsmPyqT",
+    "name_full": "cASHDgLgeLafrDtQhHIC",
+    "inn": 526794625055679,
+    "kpp": 767828907
+  },
+  {
+    "id": 298,
+    "name_short": "rsowHdyh",
+    "name_full": "BJWhWMLOdbofHbAxpnsC",
+    "inn": 618973685625215,
+    "kpp": 830060444
+  },
+  {
+    "id": 299,
+    "name_short": "NIgmqhOD",
+    "name_full": "fYmfdTrtaJtDIbUjxVwl",
+    "inn": 872477535378516,
+    "kpp": 217630658
+  },
+  {
+    "id": 300,
+    "name_short": "YMlyuOcN",
+    "name_full": "SnxCCBwsVTwxoaqxmfTP",
+    "inn": 428128141387622,
+    "kpp": 699302766
+  },
+  {
+    "id": 301,
+    "name_short": "eLmbPDIv",
+    "name_full": "CZPPecVrxQGOATNcDJjH",
+    "inn": 475133458939083,
+    "kpp": 711772043
+  },
+  {
+    "id": 302,
+    "name_short": "nXaRUbIq",
+    "name_full": "JKeKlESnSsZmxnQzVaHt",
+    "inn": 114260503203364,
+    "kpp": 964508067
+  },
+  {
+    "id": 303,
+    "name_short": "vmzpBzEe",
+    "name_full": "TYBoqSZlqHsiXoAjYxoX",
+    "inn": 476600529460142,
+    "kpp": 787395018
+  },
+  {
+    "id": 304,
+    "name_short": "DGNnfHES",
+    "name_full": "bUGjZikbBrTUyApPgbBN",
+    "inn": 939099400260387,
+    "kpp": 277060717
+  },
+  {
+    "id": 305,
+    "name_short": "wChsXMED",
+    "name_full": "QMsWLIOBKcImkLKawuCl",
+    "inn": 167350807679278,
+    "kpp": 637206148
+  },
+  {
+    "id": 306,
+    "name_short": "LmYVPKDT",
+    "name_full": "ZXqhXTFJJCwVgxccYmRL",
+    "inn": 475005081198630,
+    "kpp": 899638097
+  },
+  {
+    "id": 307,
+    "name_short": "OZLXgkqO",
+    "name_full": "kkPSCTERBumyqyvopgDv",
+    "inn": 983396576601364,
+    "kpp": 220458010
+  },
+  {
+    "id": 308,
+    "name_short": "WSgeZNql",
+    "name_full": "yYReTjbwDjopPMnRWkKj",
+    "inn": 278937640440310,
+    "kpp": 110129160
+  },
+  {
+    "id": 309,
+    "name_short": "ETqgmYHM",
+    "name_full": "MbBMdDrydZUkHAVyfTyL",
+    "inn": 494508185476865,
+    "kpp": 509549686
+  },
+  {
+    "id": 310,
+    "name_short": "DkLAtHJf",
+    "name_full": "PjoztfjtTbtiINrhKPVv",
+    "inn": 607406733484448,
+    "kpp": 312510175
+  },
+  {
+    "id": 311,
+    "name_short": "oUGziDnK",
+    "name_full": "KOLRoGdfSULmkFmAnyir",
+    "inn": 334504907204160,
+    "kpp": 302857873
+  },
+  {
+    "id": 312,
+    "name_short": "RVXQDtAn",
+    "name_full": "KVLsTcVkiBktdFuoAkpE",
+    "inn": 654490770304862,
+    "kpp": 488168479
+  },
+  {
+    "id": 313,
+    "name_short": "cGFukhGl",
+    "name_full": "CUoPaPCDkAHmIDsZqUHd",
+    "inn": 408484289356782,
+    "kpp": 525043329
+  },
+  {
+    "id": 314,
+    "name_short": "bVRKmHJg",
+    "name_full": "STFUvJbjYInOlpZGlvbl",
+    "inn": 524847349190216,
+    "kpp": 325485634
+  },
+  {
+    "id": 315,
+    "name_short": "uYqaQMVY",
+    "name_full": "fmUvmJKImYyskcPEWIMI",
+    "inn": 559228935856322,
+    "kpp": 290620810
+  },
+  {
+    "id": 316,
+    "name_short": "TyhwFHTQ",
+    "name_full": "bxVDDEdAlhhDgKQCMGks",
+    "inn": 181538656245158,
+    "kpp": 304597835
+  },
+  {
+    "id": 317,
+    "name_short": "IEcNxyYk",
+    "name_full": "nayITtElltiRHPypKbKv",
+    "inn": 281931056286718,
+    "kpp": 252161321
+  },
+  {
+    "id": 318,
+    "name_short": "VLpntXCE",
+    "name_full": "mFdlLwXoXoGkWUKUQCSI",
+    "inn": 292407829371465,
+    "kpp": 172510165
+  },
+  {
+    "id": 319,
+    "name_short": "vGMOrPwZ",
+    "name_full": "QlCAuUwgbRkoAncMbjoT",
+    "inn": 441725582767450,
+    "kpp": 756253833
+  },
+  {
+    "id": 320,
+    "name_short": "PtihkUBB",
+    "name_full": "nAbYnNtNKSduSVqDVGfi",
+    "inn": 137335586116998,
+    "kpp": 884191453
+  },
+  {
+    "id": 321,
+    "name_short": "ZwRPsVLx",
+    "name_full": "KnqSdOFWKmrDDBSaFzgr",
+    "inn": 366340037954252,
+    "kpp": 629828827
+  },
+  {
+    "id": 322,
+    "name_short": "aPxdqBjN",
+    "name_full": "ffHdKPiwncmeJQjlfOeQ",
+    "inn": 546036613806755,
+    "kpp": 519432647
+  },
+  {
+    "id": 323,
+    "name_short": "fzKCHTfl",
+    "name_full": "SCcofLgPeUPgWpulmMfP",
+    "inn": 528268660658086,
+    "kpp": 879882939
+  },
+  {
+    "id": 324,
+    "name_short": "UDfPqSwF",
+    "name_full": "bFmxtQRPGDZqXUUhGkxw",
+    "inn": 694866946855310,
+    "kpp": 543859698
+  },
+  {
+    "id": 325,
+    "name_short": "csHMOurC",
+    "name_full": "wofHfeYeIQPYWtBxZfAQ",
+    "inn": 788474352753636,
+    "kpp": 975442442
+  },
+  {
+    "id": 326,
+    "name_short": "guZxDjvi",
+    "name_full": "XATXfSylaDLbuIJnERCE",
+    "inn": 668113950372393,
+    "kpp": 796294022
+  },
+  {
+    "id": 327,
+    "name_short": "JAwYUldY",
+    "name_full": "FptapGgdmOmfXSBtkjZH",
+    "inn": 592870755003201,
+    "kpp": 518245365
+  },
+  {
+    "id": 328,
+    "name_short": "aILXdPFE",
+    "name_full": "wCuWCMCaNyHKFjDbsoTx",
+    "inn": 615815061808306,
+    "kpp": 687473517
+  },
+  {
+    "id": 329,
+    "name_short": "FAOztgHs",
+    "name_full": "SIlxvGMoXjIsUSOHHLoy",
+    "inn": 200908270381679,
+    "kpp": 392795854
+  },
+  {
+    "id": 330,
+    "name_short": "YHwSZidq",
+    "name_full": "AoTDwIWZzthvphTfgRLE",
+    "inn": 521612014808666,
+    "kpp": 815402096
+  },
+  {
+    "id": 331,
+    "name_short": "PWGSPNWq",
+    "name_full": "WzLmqTDxxRxowLGMaywS",
+    "inn": 248550432598501,
+    "kpp": 314772117
+  },
+  {
+    "id": 332,
+    "name_short": "CEElJCer",
+    "name_full": "dFxPIjsXsCqNMVpEToIR",
+    "inn": 887212551523088,
+    "kpp": 552116658
+  },
+  {
+    "id": 333,
+    "name_short": "cqyTiNFo",
+    "name_full": "LGOGRDiUpBCtouJjDuwr",
+    "inn": 992928396034662,
+    "kpp": 487887543
+  },
+  {
+    "id": 334,
+    "name_short": "MZzzMjWs",
+    "name_full": "caIUzlMTkvRBDjClakQz",
+    "inn": 731442139173260,
+    "kpp": 549987146
+  },
+  {
+    "id": 335,
+    "name_short": "gTvUnPcV",
+    "name_full": "pbLTxvUGVxIhzCtffcat",
+    "inn": 971395465315760,
+    "kpp": 171952554
+  },
+  {
+    "id": 336,
+    "name_short": "GiqWDndq",
+    "name_full": "CMlKucEcVvlxqgseDcKN",
+    "inn": 222341382990028,
+    "kpp": 185618642
+  },
+  {
+    "id": 337,
+    "name_short": "wkwRfPan",
+    "name_full": "fRHraPqfpGNnWwfvFMsd",
+    "inn": 465436072750351,
+    "kpp": 197757355
+  },
+  {
+    "id": 338,
+    "name_short": "KvRsdqxZ",
+    "name_full": "QGYocXDlotYgMRYGTeGW",
+    "inn": 263575043337455,
+    "kpp": 521466836
+  },
+  {
+    "id": 339,
+    "name_short": "ehbjgCab",
+    "name_full": "sMLThyYveKOfSUJLsQdy",
+    "inn": 157324911550120,
+    "kpp": 986484894
+  },
+  {
+    "id": 340,
+    "name_short": "sHqSzdhp",
+    "name_full": "FAvgdiYpmvEkAcfERhjA",
+    "inn": 684328621065258,
+    "kpp": 401523516
+  },
+  {
+    "id": 341,
+    "name_short": "vSjjHoAV",
+    "name_full": "gMbLBMobatDwbDHHLxcH",
+    "inn": 869575784454329,
+    "kpp": 640481301
+  },
+  {
+    "id": 342,
+    "name_short": "aTCsWLWR",
+    "name_full": "WyCsSMwMpwyRpiNrtdHo",
+    "inn": 357214927296633,
+    "kpp": 947755605
+  },
+  {
+    "id": 343,
+    "name_short": "gUUbJRLj",
+    "name_full": "ZvToKQhlHPyVjMtZSKGt",
+    "inn": 589077991661629,
+    "kpp": 310414336
+  },
+  {
+    "id": 344,
+    "name_short": "zGyYubfR",
+    "name_full": "lGKyQEeEvXYZAYYugNel",
+    "inn": 842023424312201,
+    "kpp": 529589291
+  },
+  {
+    "id": 345,
+    "name_short": "VwqMTwXK",
+    "name_full": "ifJtvflCLHWGbkUGewmx",
+    "inn": 982394549763305,
+    "kpp": 796604747
+  },
+  {
+    "id": 346,
+    "name_short": "FTavIuAD",
+    "name_full": "QShLAbEzOMwYFOOAnOZd",
+    "inn": 955861193006342,
+    "kpp": 682268620
+  },
+  {
+    "id": 347,
+    "name_short": "YhisOOrW",
+    "name_full": "NgMEKUmBVgGBXmFlyMtH",
+    "inn": 886573098857490,
+    "kpp": 461697302
+  },
+  {
+    "id": 348,
+    "name_short": "eytbAcVZ",
+    "name_full": "rtXPyWMknuhyIfoTsgTP",
+    "inn": 860592086255628,
+    "kpp": 218022621
+  },
+  {
+    "id": 349,
+    "name_short": "EpQEIUxS",
+    "name_full": "iqrQNhBpGDZNCvGGZQVa",
+    "inn": 133981189610566,
+    "kpp": 474979454
+  },
+  {
+    "id": 350,
+    "name_short": "GZxlEGcQ",
+    "name_full": "ZlWfnVJjHGtYoUmkYBkX",
+    "inn": 287219952259672,
+    "kpp": 850835029
+  },
+  {
+    "id": 351,
+    "name_short": "wvJIhItH",
+    "name_full": "CKzHJWdeYGgFsBcsAgeZ",
+    "inn": 455918732488585,
+    "kpp": 395542276
+  },
+  {
+    "id": 352,
+    "name_short": "GHNgmPWE",
+    "name_full": "apbWRtPGBNhIwhVrkSro",
+    "inn": 659876429535751,
+    "kpp": 520617966
+  },
+  {
+    "id": 353,
+    "name_short": "MGZhpeUy",
+    "name_full": "lAzHVAeZJhXKCrncHKOB",
+    "inn": 690477952971554,
+    "kpp": 313769250
+  },
+  {
+    "id": 354,
+    "name_short": "YFdmmtaM",
+    "name_full": "huGQnXdRtiSQuFRNHSms",
+    "inn": 207652614021999,
+    "kpp": 981844414
+  },
+  {
+    "id": 355,
+    "name_short": "tXXulwdy",
+    "name_full": "zCutIfaecSQjSJnIAOqN",
+    "inn": 805049631751254,
+    "kpp": 402995927
+  },
+  {
+    "id": 356,
+    "name_short": "SCrYVaRs",
+    "name_full": "XsKpiAtelJldakywKywI",
+    "inn": 953791243551040,
+    "kpp": 296208849
+  },
+  {
+    "id": 357,
+    "name_short": "ixZebExj",
+    "name_full": "aNyEbMHmxmLNsDKvvgyP",
+    "inn": 890828224517194,
+    "kpp": 231758511
+  },
+  {
+    "id": 358,
+    "name_short": "mhVXoYXN",
+    "name_full": "BAphESyPSpvOMSOzfpEX",
+    "inn": 374782726545240,
+    "kpp": 915016088
+  },
+  {
+    "id": 359,
+    "name_short": "EOSwQWrE",
+    "name_full": "zcMsYdbDLFAMTxVhvjGs",
+    "inn": 575241232580313,
+    "kpp": 541210532
+  },
+  {
+    "id": 360,
+    "name_short": "nuYAbCsP",
+    "name_full": "LIjQqOuEzrbUMZfbCAQV",
+    "inn": 601487019544758,
+    "kpp": 512713508
+  },
+  {
+    "id": 361,
+    "name_short": "JgWvmjey",
+    "name_full": "ZVdaydEmGapjPsFhHuPU",
+    "inn": 184350428709764,
+    "kpp": 500783170
+  },
+  {
+    "id": 362,
+    "name_short": "WuVgFUoA",
+    "name_full": "wMwFxIWZUMqeTEKqizrw",
+    "inn": 332233918743553,
+    "kpp": 372374927
+  },
+  {
+    "id": 363,
+    "name_short": "GQSEeIHv",
+    "name_full": "XlmauRssSSYgXNxULiZA",
+    "inn": 185245191685559,
+    "kpp": 586539251
+  },
+  {
+    "id": 364,
+    "name_short": "rINXvvmK",
+    "name_full": "DUyEPhcCGISpnmUjTxvh",
+    "inn": 960457725042057,
+    "kpp": 390218383
+  },
+  {
+    "id": 365,
+    "name_short": "UndRcavH",
+    "name_full": "TviMRzdKsINTsGWXTlwC",
+    "inn": 488237339728909,
+    "kpp": 743324438
+  },
+  {
+    "id": 366,
+    "name_short": "JPLKOBam",
+    "name_full": "EYdBBRQBGEkGBICoCnOC",
+    "inn": 342552428117900,
+    "kpp": 438697830
+  },
+  {
+    "id": 367,
+    "name_short": "irkliBeh",
+    "name_full": "vDLXowhgClDYQsuEVKNR",
+    "inn": 895479287950662,
+    "kpp": 194906053
+  },
+  {
+    "id": 368,
+    "name_short": "FwbzYdGo",
+    "name_full": "RvGCOzeLrxkRPCNOYCpN",
+    "inn": 869243110482329,
+    "kpp": 147254904
+  },
+  {
+    "id": 369,
+    "name_short": "dnvBkCGe",
+    "name_full": "dHWFifpyZLkhLxgTGVQY",
+    "inn": 802041474101641,
+    "kpp": 995647691
+  },
+  {
+    "id": 370,
+    "name_short": "oQsIyelj",
+    "name_full": "VcdbvREiFVrxmEmXthQO",
+    "inn": 548949880787420,
+    "kpp": 135602094
+  },
+  {
+    "id": 371,
+    "name_short": "BsEHMBWf",
+    "name_full": "HwWGwRyyzfMtuPnByDgV",
+    "inn": 506006241053772,
+    "kpp": 172797897
+  },
+  {
+    "id": 372,
+    "name_short": "nROnIHIl",
+    "name_full": "VYtPGClBmVNGVBGsfhLa",
+    "inn": 354810503253010,
+    "kpp": 251433886
+  },
+  {
+    "id": 373,
+    "name_short": "XLXAZHeD",
+    "name_full": "aOJUgNJGcHvbrZROzmrN",
+    "inn": 362937497579663,
+    "kpp": 861440106
+  },
+  {
+    "id": 374,
+    "name_short": "vXZREuWg",
+    "name_full": "mRFqobAkZkJzGJUwayFf",
+    "inn": 764294685584873,
+    "kpp": 102750767
+  },
+  {
+    "id": 375,
+    "name_short": "bJYBMqlx",
+    "name_full": "euHjgQqwsMCZgWkVnTLY",
+    "inn": 197569281910038,
+    "kpp": 831378363
+  },
+  {
+    "id": 376,
+    "name_short": "VlIVTlBh",
+    "name_full": "rodbnldsywdIhfAaANRO",
+    "inn": 147160275754304,
+    "kpp": 862728505
+  },
+  {
+    "id": 377,
+    "name_short": "QxcpiwdE",
+    "name_full": "BgOkpaDMBhAxVQAccIjr",
+    "inn": 455972582820050,
+    "kpp": 233929765
+  },
+  {
+    "id": 378,
+    "name_short": "TTULERbi",
+    "name_full": "rFowySTFrKUnereJxosj",
+    "inn": 630308906955626,
+    "kpp": 387454939
+  },
+  {
+    "id": 379,
+    "name_short": "kwPgoRqL",
+    "name_full": "KoASNOUMstvZXYPAdwyD",
+    "inn": 968117023865434,
+    "kpp": 791494919
+  },
+  {
+    "id": 380,
+    "name_short": "srNgDcnA",
+    "name_full": "swusmFLjpIvNAnMGRrFK",
+    "inn": 717977824061180,
+    "kpp": 319088847
+  },
+  {
+    "id": 381,
+    "name_short": "WuxfvdDu",
+    "name_full": "uiSMTmPBklzOlXdTvllJ",
+    "inn": 556981459389173,
+    "kpp": 673098521
+  },
+  {
+    "id": 382,
+    "name_short": "zkMvpBBA",
+    "name_full": "SVOMEaXHEjTHHRyewAry",
+    "inn": 829558278284641,
+    "kpp": 150740824
+  },
+  {
+    "id": 383,
+    "name_short": "ukSeswlf",
+    "name_full": "VCkzxxWhKfkMjyUDXIoV",
+    "inn": 637839641799468,
+    "kpp": 836053962
+  },
+  {
+    "id": 384,
+    "name_short": "CjdnVKiN",
+    "name_full": "HsGylogOdKwDbthahAmD",
+    "inn": 895193059803863,
+    "kpp": 154242273
+  },
+  {
+    "id": 385,
+    "name_short": "HgHMiWId",
+    "name_full": "uWZHaQZcwlRInhAvSAiK",
+    "inn": 158971875145018,
+    "kpp": 736845705
+  },
+  {
+    "id": 386,
+    "name_short": "IHLvhhEX",
+    "name_full": "cIQqLUdBqOjhBYRXuAnz",
+    "inn": 695575744224554,
+    "kpp": 652049454
+  },
+  {
+    "id": 387,
+    "name_short": "rVkRPOrA",
+    "name_full": "bRPcbLpqqpHzTczVoxXg",
+    "inn": 183583507187586,
+    "kpp": 864621406
+  },
+  {
+    "id": 388,
+    "name_short": "spofDLez",
+    "name_full": "TFxCHcNsIAxNtNZYSpjz",
+    "inn": 657061292191706,
+    "kpp": 374584490
+  },
+  {
+    "id": 389,
+    "name_short": "DTLAJFGz",
+    "name_full": "jLzVKmZfYTOZYVLTUJSO",
+    "inn": 822607495503397,
+    "kpp": 867103988
+  },
+  {
+    "id": 390,
+    "name_short": "Fqevxmsv",
+    "name_full": "xpFSFKShFkCfZbeApuGQ",
+    "inn": 302057636783340,
+    "kpp": 517464205
+  },
+  {
+    "id": 391,
+    "name_short": "qhfTSikd",
+    "name_full": "haXPOSGIgrZDkLWlVEOy",
+    "inn": 718514725340934,
+    "kpp": 720382460
+  },
+  {
+    "id": 392,
+    "name_short": "AlgJtCMD",
+    "name_full": "tDfBYGWIEMeTekXXqSDx",
+    "inn": 164061785381787,
+    "kpp": 350737102
+  },
+  {
+    "id": 393,
+    "name_short": "jgmNAgig",
+    "name_full": "TpvQitaVzefEzVbGfRTk",
+    "inn": 170997054956192,
+    "kpp": 198854019
+  },
+  {
+    "id": 394,
+    "name_short": "jHNHBLlP",
+    "name_full": "HBYXirWINKmhEEgaatYe",
+    "inn": 220389807174578,
+    "kpp": 339877977
+  },
+  {
+    "id": 395,
+    "name_short": "ApGkqXMA",
+    "name_full": "cWBXuvAsMdgzGjxlVygn",
+    "inn": 196389961714223,
+    "kpp": 736989744
+  },
+  {
+    "id": 396,
+    "name_short": "hhOZgrBd",
+    "name_full": "bZcHMSeDFAOScNeYLsIO",
+    "inn": 502413027049622,
+    "kpp": 387935412
+  },
+  {
+    "id": 397,
+    "name_short": "qrupLtED",
+    "name_full": "BBsuhVSCQFNxZBiNbbBu",
+    "inn": 357462088159395,
+    "kpp": 580915464
+  },
+  {
+    "id": 398,
+    "name_short": "iFyNmlGq",
+    "name_full": "ECrFlQQNdOFvzMRcdiwy",
+    "inn": 654454491209012,
+    "kpp": 480378507
+  },
+  {
+    "id": 399,
+    "name_short": "ANpHThSW",
+    "name_full": "dZfYotMgeBERKLZkuHIT",
+    "inn": 681478595895214,
+    "kpp": 776473269
+  },
+  {
+    "id": 400,
+    "name_short": "cxbgXFUH",
+    "name_full": "ieHabgCInMHyOkmahYBX",
+    "inn": 630090946306712,
+    "kpp": 387701836
+  }
+]

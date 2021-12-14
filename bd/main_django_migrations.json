@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "app": "contenttypes",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.502578"
+  },
+  {
+    "id": 2,
+    "app": "auth",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.517368"
+  },
+  {
+    "id": 3,
+    "app": "admin",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.524638"
+  },
+  {
+    "id": 4,
+    "app": "admin",
+    "name": "0002_logentry_remove_auto_add",
+    "applied": "2021-12-14 14:15:07.555450"
+  },
+  {
+    "id": 5,
+    "app": "admin",
+    "name": "0003_logentry_add_action_flag_choices",
+    "applied": "2021-12-14 14:15:07.563410"
+  },
+  {
+    "id": 6,
+    "app": "contenttypes",
+    "name": "0002_remove_content_type_name",
+    "applied": "2021-12-14 14:15:07.580243"
+  },
+  {
+    "id": 7,
+    "app": "auth",
+    "name": "0002_alter_permission_name_max_length",
+    "applied": "2021-12-14 14:15:07.588857"
+  },
+  {
+    "id": 8,
+    "app": "auth",
+    "name": "0003_alter_user_email_max_length",
+    "applied": "2021-12-14 14:15:07.598690"
+  },
+  {
+    "id": 9,
+    "app": "auth",
+    "name": "0004_alter_user_username_opts",
+    "applied": "2021-12-14 14:15:07.607320"
+  },
+  {
+    "id": 10,
+    "app": "auth",
+    "name": "0005_alter_user_last_login_null",
+    "applied": "2021-12-14 14:15:07.616504"
+  },
+  {
+    "id": 11,
+    "app": "auth",
+    "name": "0006_require_contenttypes_0002",
+    "applied": "2021-12-14 14:15:07.617512"
+  },
+  {
+    "id": 12,
+    "app": "auth",
+    "name": "0007_alter_validators_add_error_messages",
+    "applied": "2021-12-14 14:15:07.623193"
+  },
+  {
+    "id": 13,
+    "app": "auth",
+    "name": "0008_alter_user_username_max_length",
+    "applied": "2021-12-14 14:15:07.632679"
+  },
+  {
+    "id": 14,
+    "app": "auth",
+    "name": "0009_alter_user_last_name_max_length",
+    "applied": "2021-12-14 14:15:07.642115"
+  },
+  {
+    "id": 15,
+    "app": "auth",
+    "name": "0010_alter_group_name_max_length",
+    "applied": "2021-12-14 14:15:07.649763"
+  },
+  {
+    "id": 16,
+    "app": "auth",
+    "name": "0011_update_proxy_permissions",
+    "applied": "2021-12-14 14:15:07.655043"
+  },
+  {
+    "id": 17,
+    "app": "auth",
+    "name": "0012_alter_user_first_name_max_length",
+    "applied": "2021-12-14 14:15:07.663138"
+  },
+  {
+    "id": 18,
+    "app": "client",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.665613"
+  },
+  {
+    "id": 19,
+    "app": "client",
+    "name": "0002_remove_client_id_client_alter_client_id_and_more",
+    "applied": "2021-12-14 14:15:07.671583"
+  },
+  {
+    "id": 20,
+    "app": "legal_entity",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.673746"
+  },
+  {
+    "id": 21,
+    "app": "legal_entity",
+    "name": "0002_remove_legalentity_id_client_alter_legalentity_inn_and_more",
+    "applied": "2021-12-14 14:15:07.682712"
+  },
+  {
+    "id": 22,
+    "app": "departments",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.687219"
+  },
+  {
+    "id": 23,
+    "app": "departments",
+    "name": "0002_numberid_remove_departments_id_client_and_more",
+    "applied": "2021-12-14 14:15:07.705277"
+  },
+  {
+    "id": 24,
+    "app": "departments",
+    "name": "0003_rename_id_department_numberid_id_number_and_more",
+    "applied": "2021-12-14 14:15:07.713265"
+  },
+  {
+    "id": 25,
+    "app": "sessions",
+    "name": "0001_initial",
+    "applied": "2021-12-14 14:15:07.717487"
+  }
+]

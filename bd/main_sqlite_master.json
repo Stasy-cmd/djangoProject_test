@@ -1,0 +1,247 @@
+[
+  {
+    "type": "table",
+    "name": "django_migrations",
+    "tbl_name": "django_migrations",
+    "rootpage": 2,
+    "sql": "CREATE TABLE \"django_migrations\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"app\" varchar(255) NOT NULL, \"name\" varchar(255) NOT NULL, \"applied\" datetime NOT NULL)"
+  },
+  {
+    "type": "table",
+    "name": "sqlite_sequence",
+    "tbl_name": "sqlite_sequence",
+    "rootpage": 3,
+    "sql": "CREATE TABLE sqlite_sequence(name,seq)"
+  },
+  {
+    "type": "table",
+    "name": "auth_group_permissions",
+    "tbl_name": "auth_group_permissions",
+    "rootpage": 9,
+    "sql": "CREATE TABLE \"auth_group_permissions\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"group_id\" integer NOT NULL REFERENCES \"auth_group\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"permission_id\" integer NOT NULL REFERENCES \"auth_permission\" (\"id\") DEFERRABLE INITIALLY DEFERRED)"
+  },
+  {
+    "type": "table",
+    "name": "auth_user_groups",
+    "tbl_name": "auth_user_groups",
+    "rootpage": 12,
+    "sql": "CREATE TABLE \"auth_user_groups\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"user_id\" integer NOT NULL REFERENCES \"auth_user\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"group_id\" integer NOT NULL REFERENCES \"auth_group\" (\"id\") DEFERRABLE INITIALLY DEFERRED)"
+  },
+  {
+    "type": "table",
+    "name": "auth_user_user_permissions",
+    "tbl_name": "auth_user_user_permissions",
+    "rootpage": 13,
+    "sql": "CREATE TABLE \"auth_user_user_permissions\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"user_id\" integer NOT NULL REFERENCES \"auth_user\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"permission_id\" integer NOT NULL REFERENCES \"auth_permission\" (\"id\") DEFERRABLE INITIALLY DEFERRED)"
+  },
+  {
+    "type": "index",
+    "name": "auth_group_permissions_group_id_permission_id_0cd325b0_uniq",
+    "tbl_name": "auth_group_permissions",
+    "rootpage": 16,
+    "sql": "CREATE UNIQUE INDEX \"auth_group_permissions_group_id_permission_id_0cd325b0_uniq\" ON \"auth_group_permissions\" (\"group_id\", \"permission_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_group_permissions_group_id_b120cbf9",
+    "tbl_name": "auth_group_permissions",
+    "rootpage": 17,
+    "sql": "CREATE INDEX \"auth_group_permissions_group_id_b120cbf9\" ON \"auth_group_permissions\" (\"group_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_group_permissions_permission_id_84c5c92e",
+    "tbl_name": "auth_group_permissions",
+    "rootpage": 18,
+    "sql": "CREATE INDEX \"auth_group_permissions_permission_id_84c5c92e\" ON \"auth_group_permissions\" (\"permission_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_user_groups_user_id_group_id_94350c0c_uniq",
+    "tbl_name": "auth_user_groups",
+    "rootpage": 19,
+    "sql": "CREATE UNIQUE INDEX \"auth_user_groups_user_id_group_id_94350c0c_uniq\" ON \"auth_user_groups\" (\"user_id\", \"group_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_user_groups_user_id_6a12ed8b",
+    "tbl_name": "auth_user_groups",
+    "rootpage": 20,
+    "sql": "CREATE INDEX \"auth_user_groups_user_id_6a12ed8b\" ON \"auth_user_groups\" (\"user_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_user_groups_group_id_97559544",
+    "tbl_name": "auth_user_groups",
+    "rootpage": 22,
+    "sql": "CREATE INDEX \"auth_user_groups_group_id_97559544\" ON \"auth_user_groups\" (\"group_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_user_user_permissions_user_id_permission_id_14a6b632_uniq",
+    "tbl_name": "auth_user_user_permissions",
+    "rootpage": 24,
+    "sql": "CREATE UNIQUE INDEX \"auth_user_user_permissions_user_id_permission_id_14a6b632_uniq\" ON \"auth_user_user_permissions\" (\"user_id\", \"permission_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_user_user_permissions_user_id_a95ead1b",
+    "tbl_name": "auth_user_user_permissions",
+    "rootpage": 25,
+    "sql": "CREATE INDEX \"auth_user_user_permissions_user_id_a95ead1b\" ON \"auth_user_user_permissions\" (\"user_id\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_user_user_permissions_permission_id_1fbb5f2c",
+    "tbl_name": "auth_user_user_permissions",
+    "rootpage": 26,
+    "sql": "CREATE INDEX \"auth_user_user_permissions_permission_id_1fbb5f2c\" ON \"auth_user_user_permissions\" (\"permission_id\")"
+  },
+  {
+    "type": "table",
+    "name": "django_admin_log",
+    "tbl_name": "django_admin_log",
+    "rootpage": 29,
+    "sql": "CREATE TABLE \"django_admin_log\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"action_time\" datetime NOT NULL, \"object_id\" text NULL, \"object_repr\" varchar(200) NOT NULL, \"change_message\" text NOT NULL, \"content_type_id\" integer NULL REFERENCES \"django_content_type\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"user_id\" integer NOT NULL REFERENCES \"auth_user\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"action_flag\" smallint unsigned NOT NULL CHECK (\"action_flag\" >= 0))"
+  },
+  {
+    "type": "index",
+    "name": "django_admin_log_content_type_id_c4bce8eb",
+    "tbl_name": "django_admin_log",
+    "rootpage": 27,
+    "sql": "CREATE INDEX \"django_admin_log_content_type_id_c4bce8eb\" ON \"django_admin_log\" (\"content_type_id\")"
+  },
+  {
+    "type": "index",
+    "name": "django_admin_log_user_id_c564eba6",
+    "tbl_name": "django_admin_log",
+    "rootpage": 28,
+    "sql": "CREATE INDEX \"django_admin_log_user_id_c564eba6\" ON \"django_admin_log\" (\"user_id\")"
+  },
+  {
+    "type": "table",
+    "name": "django_content_type",
+    "tbl_name": "django_content_type",
+    "rootpage": 5,
+    "sql": "CREATE TABLE \"django_content_type\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"app_label\" varchar(100) NOT NULL, \"model\" varchar(100) NOT NULL)"
+  },
+  {
+    "type": "index",
+    "name": "django_content_type_app_label_model_76bd3d3b_uniq",
+    "tbl_name": "django_content_type",
+    "rootpage": 4,
+    "sql": "CREATE UNIQUE INDEX \"django_content_type_app_label_model_76bd3d3b_uniq\" ON \"django_content_type\" (\"app_label\", \"model\")"
+  },
+  {
+    "type": "table",
+    "name": "auth_permission",
+    "tbl_name": "auth_permission",
+    "rootpage": 30,
+    "sql": "CREATE TABLE \"auth_permission\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"content_type_id\" integer NOT NULL REFERENCES \"django_content_type\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"codename\" varchar(100) NOT NULL, \"name\" varchar(255) NOT NULL)"
+  },
+  {
+    "type": "index",
+    "name": "auth_permission_content_type_id_codename_01ab375a_uniq",
+    "tbl_name": "auth_permission",
+    "rootpage": 6,
+    "sql": "CREATE UNIQUE INDEX \"auth_permission_content_type_id_codename_01ab375a_uniq\" ON \"auth_permission\" (\"content_type_id\", \"codename\")"
+  },
+  {
+    "type": "index",
+    "name": "auth_permission_content_type_id_2f476e4b",
+    "tbl_name": "auth_permission",
+    "rootpage": 14,
+    "sql": "CREATE INDEX \"auth_permission_content_type_id_2f476e4b\" ON \"auth_permission\" (\"content_type_id\")"
+  },
+  {
+    "type": "table",
+    "name": "auth_group",
+    "tbl_name": "auth_group",
+    "rootpage": 15,
+    "sql": "CREATE TABLE \"auth_group\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"name\" varchar(150) NOT NULL UNIQUE)"
+  },
+  {
+    "type": "index",
+    "name": "sqlite_autoindex_auth_group_1",
+    "tbl_name": "auth_group",
+    "rootpage": 31,
+    "sql": null
+  },
+  {
+    "type": "table",
+    "name": "auth_user",
+    "tbl_name": "auth_user",
+    "rootpage": 7,
+    "sql": "CREATE TABLE \"auth_user\" (\"id\" integer NOT NULL PRIMARY KEY AUTOINCREMENT, \"password\" varchar(128) NOT NULL, \"last_login\" datetime NULL, \"is_superuser\" bool NOT NULL, \"username\" varchar(150) NOT NULL UNIQUE, \"last_name\" varchar(150) NOT NULL, \"email\" varchar(254) NOT NULL, \"is_staff\" bool NOT NULL, \"is_active\" bool NOT NULL, \"date_joined\" datetime NOT NULL, \"first_name\" varchar(150) NOT NULL)"
+  },
+  {
+    "type": "index",
+    "name": "sqlite_autoindex_auth_user_1",
+    "tbl_name": "auth_user",
+    "rootpage": 8,
+    "sql": null
+  },
+  {
+    "type": "table",
+    "name": "client_client",
+    "tbl_name": "client_client",
+    "rootpage": 32,
+    "sql": "CREATE TABLE \"client_client\" (\"id\" integer NOT NULL PRIMARY KEY, \"phone_number\" integer NOT NULL, \"additional_numbers\" varchar(255) NOT NULL, \"surname\" varchar(255) NOT NULL, \"name\" varchar(255) NOT NULL, \"middle_name\" varchar(255) NOT NULL, \"status\" varchar(255) NOT NULL, \"type_of_client\" varchar(255) NOT NULL, \"email\" varchar(254) NOT NULL, \"timezone\" varchar(255) NOT NULL, \"sex\" varchar(255) NOT NULL)"
+  },
+  {
+    "type": "table",
+    "name": "legal_entity_legalentity",
+    "tbl_name": "legal_entity_legalentity",
+    "rootpage": 33,
+    "sql": "CREATE TABLE \"legal_entity_legalentity\" (\"id\" integer NOT NULL PRIMARY KEY, \"name_short\" varchar(255) NOT NULL, \"name_full\" text NOT NULL, \"inn\" integer NOT NULL, \"kpp\" integer NOT NULL)"
+  },
+  {
+    "type": "table",
+    "name": "departments_departments",
+    "tbl_name": "departments_departments",
+    "rootpage": 34,
+    "sql": "CREATE TABLE \"departments_departments\" (\"id\" integer NOT NULL PRIMARY KEY, \"name\" varchar(255) NOT NULL)"
+  },
+  {
+    "type": "table",
+    "name": "departments_legalclient",
+    "tbl_name": "departments_legalclient",
+    "rootpage": 10,
+    "sql": "CREATE TABLE \"departments_legalclient\" (\"id\" integer NOT NULL PRIMARY KEY, \"id_client_id\" integer NOT NULL REFERENCES \"client_client\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"id_legal_id\" integer NOT NULL REFERENCES \"legal_entity_legalentity\" (\"id\") DEFERRABLE INITIALLY DEFERRED)"
+  },
+  {
+    "type": "table",
+    "name": "departments_departmentslegal",
+    "tbl_name": "departments_departmentslegal",
+    "rootpage": 11,
+    "sql": "CREATE TABLE \"departments_departmentslegal\" (\"id\" integer NOT NULL PRIMARY KEY, \"id_department_id\" integer NOT NULL REFERENCES \"departments_departments\" (\"id\") DEFERRABLE INITIALLY DEFERRED, \"id_legal_entity_id\" integer NOT NULL REFERENCES \"legal_entity_legalentity\" (\"id\") DEFERRABLE INITIALLY DEFERRED)"
+  },
+  {
+    "type": "table",
+    "name": "departments_numberid",
+    "tbl_name": "departments_numberid",
+    "rootpage": 37,
+    "sql": "CREATE TABLE \"departments_numberid\" (\"id\" integer NOT NULL PRIMARY KEY, \"id_number\" integer NOT NULL, \"type_id\" integer NOT NULL)"
+  },
+  {
+    "type": "table",
+    "name": "django_session",
+    "tbl_name": "django_session",
+    "rootpage": 36,
+    "sql": "CREATE TABLE \"django_session\" (\"session_key\" varchar(40) NOT NULL PRIMARY KEY, \"session_data\" text NOT NULL, \"expire_date\" datetime NOT NULL)"
+  },
+  {
+    "type": "index",
+    "name": "sqlite_autoindex_django_session_1",
+    "tbl_name": "django_session",
+    "rootpage": 38,
+    "sql": null
+  },
+  {
+    "type": "index",
+    "name": "django_session_expire_date_a5c62663",
+    "tbl_name": "django_session",
+    "rootpage": 35,
+    "sql": "CREATE INDEX \"django_session_expire_date_a5c62663\" ON \"django_session\" (\"expire_date\")"
+  }
+]

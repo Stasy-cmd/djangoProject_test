@@ -38,6 +38,6 @@ class NumberIdForm ( forms.ModelForm ):
 
     class Meta:
         model = NumberId
-        fields = ('id_department', 'type_id')
+        fields = ('id_number', 'type_id')
 
 

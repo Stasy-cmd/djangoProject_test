@@ -31,11 +31,10 @@ class LegalClient ( models.Model ):
 
 
 class NumberId(models.Model):
-    type_id = models.IntegerField ()
 
     id = models.IntegerField ( primary_key=True, auto_created=True )
-    id_department = models.IntegerField ()
-    type_id =  models.CharField(max_length=255, choices=TYPE_ID, default='active')
+    id_number = models.IntegerField ()
+    type_id =  models.IntegerField ()
 
 
 

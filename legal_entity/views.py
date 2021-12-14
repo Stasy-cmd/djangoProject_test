@@ -46,6 +46,7 @@ def LegalEntityCreate(request):
         if form.errors:
             return render ( request, 'legal_entity_is_success.html', {'add_le': None} )
         form.save()
+
         legal_entity_obj = LegalEntity.objects.filter ( id_client=request.POST['id_client'] ).first ()
         return render ( request, 'legal_entity_is_success.html', {'add_le': legal_entity_obj} )
     else:

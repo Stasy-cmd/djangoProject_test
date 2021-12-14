@@ -1,0 +1,26 @@
+[
+  {
+    "name": "django_migrations",
+    "seq": 25
+  },
+  {
+    "name": "django_admin_log",
+    "seq": 0
+  },
+  {
+    "name": "django_content_type",
+    "seq": 6
+  },
+  {
+    "name": "auth_permission",
+    "seq": 24
+  },
+  {
+    "name": "auth_group",
+    "seq": 0
+  },
+  {
+    "name": "auth_user",
+    "seq": 0
+  }
+]

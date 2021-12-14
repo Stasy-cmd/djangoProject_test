@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'client',
     'legal_entity',
     'departments',
-    'social_networks'
+    'social_networks',
+    'model_mommy',
 ]
 
 MIDDLEWARE = [
@@ -82,7 +83,7 @@ WSGI_APPLICATION = 'djangoProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'main.sqlite3',
+        'NAME': BASE_DIR / 'main3.sqlite3',
     }
 }
 

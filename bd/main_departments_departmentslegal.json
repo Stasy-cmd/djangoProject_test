@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "id_department_id": 5,
+    "id_legal_entity_id": 23
+  },
+  {
+    "id": 2,
+    "id_department_id": 2,
+    "id_legal_entity_id": 14
+  },
+  {
+    "id": 3,
+    "id_department_id": 20,
+    "id_legal_entity_id": 1
+  },
+  {
+    "id": 4,
+    "id_department_id": 18,
+    "id_legal_entity_id": 6
+  },
+  {
+    "id": 5,
+    "id_department_id": 3,
+    "id_legal_entity_id": 10
+  }
+]

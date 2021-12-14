@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 
+from departments.forms import NumberIdForm
 from .forms import ClientForm
 from .model import Client
 from .serialize import ClientSerializer
@@ -51,6 +52,10 @@ def ClientCreate(request):
         if form.errors:
             return render ( request, 'client_is_success.html', {'add_client': None} )
         form.save()
+        #nf = NumberIdForm()
+        #nf.fields['id_number'] = form.id
+        #nf.fields['type_id'] = 1
+
         return render ( request, 'client_is_success.html', {'add_client': True} )
     else:
         form = ClientForm()

@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "id_client_id": 4832,
+    "id_legal_id": 245
+  },
+  {
+    "id": 2,
+    "id_client_id": 7341,
+    "id_legal_id": 189
+  },
+  {
+    "id": 3,
+    "id_client_id": 1538,
+    "id_legal_id": 233
+  },
+  {
+    "id": 4,
+    "id_client_id": 6256,
+    "id_legal_id": 201
+  },
+  {
+    "id": 5,
+    "id_client_id": 899,
+    "id_legal_id": 344
+  },
+  {
+    "id": 6,
+    "id_client_id": 1318,
+    "id_legal_id": 282
+  },
+  {
+    "id": 7,
+    "id_client_id": 10259,
+    "id_legal_id": 201
+  },
+  {
+    "id": 8,
+    "id_client_id": 8221,
+    "id_legal_id": 161
+  },
+  {
+    "id": 9,
+    "id_client_id": 11493,
+    "id_legal_id": 199
+  },
+  {
+    "id": 10,
+    "id_client_id": 3727,
+    "id_legal_id": 67
+  },
+  {
+    "id": 11,
+    "id_client_id": 1285,
+    "id_legal_id": 179
+  },
+  {
+    "id": 12,
+    "id_client_id": 18438,
+    "id_legal_id": 198
+  },
+  {
+    "id": 13,
+    "id_client_id": 13557,
+    "id_legal_id": 12
+  },
+  {
+    "id": 14,
+    "id_client_id": 4020,
+    "id_legal_id": 126
+  },
+  {
+    "id": 15,
+    "id_client_id": 3074,
+    "id_legal_id": 314
+  },
+  {
+    "id": 16,
+    "id_client_id": 10390,
+    "id_legal_id": 77
+  },
+  {
+    "id": 17,
+    "id_client_id": 16801,
+    "id_legal_id": 219
+  },
+  {
+    "id": 18,
+    "id_client_id": 14654,
+    "id_legal_id": 50
+  },
+  {
+    "id": 19,
+    "id_client_id": 10247,
+    "id_legal_id": 81
+  },
+  {
+    "id": 20,
+    "id_client_id": 2094,
+    "id_legal_id": 262
+  },
+  {
+    "id": 21,
+    "id_client_id": 5373,
+    "id_legal_id": 9
+  },
+  {
+    "id": 22,
+    "id_client_id": 10906,
+    "id_legal_id": 148
+  },
+  {
+    "id": 23,
+    "id_client_id": 10746,
+    "id_legal_id": 276
+  },
+  {
+    "id": 24,
+    "id_client_id": 541,
+    "id_legal_id": 397
+  },
+  {
+    "id": 25,
+    "id_client_id": 13103,
+    "id_legal_id": 198
+  },
+  {
+    "id": 26,
+    "id_client_id": 15923,
+    "id_legal_id": 137
+  },
+  {
+    "id": 27,
+    "id_client_id": 5984,
+    "id_legal_id": 317
+  },
+  {
+    "id": 28,
+    "id_client_id": 9262,
+    "id_legal_id": 198
+  },
+  {
+    "id": 29,
+    "id_client_id": 15575,
+    "id_legal_id": 286
+  },
+  {
+    "id": 30,
+    "id_client_id": 16136,
+    "id_legal_id": 241
+  },
+  {
+    "id": 31,
+    "id_client_id": 12446,
+    "id_legal_id": 22
+  },
+  {
+    "id": 32,
+    "id_client_id": 17577,
+    "id_legal_id": 56
+  },
+  {
+    "id": 33,
+    "id_client_id": 19008,
+    "id_legal_id": 195
+  },
+  {
+    "id": 34,
+    "id_client_id": 4834,
+    "id_legal_id": 331
+  },
+  {
+    "id": 35,
+    "id_client_id": 2397,
+    "id_legal_id": 259
+  },
+  {
+    "id": 36,
+    "id_client_id": 6370,
+    "id_legal_id": 313
+  },
+  {
+    "id": 37,
+    "id_client_id": 5431,
+    "id_legal_id": 352
+  },
+  {
+    "id": 38,
+    "id_client_id": 831,
+    "id_legal_id": 266
+  },
+  {
+    "id": 39,
+    "id_client_id": 19442,
+    "id_legal_id": 395
+  },
+  {
+    "id": 40,
+    "id_client_id": 1308,
+    "id_legal_id": 319
+  },
+  {
+    "id": 41,
+    "id_client_id": 16177,
+    "id_legal_id": 84
+  },
+  {
+    "id": 42,
+    "id_client_id": 18250,
+    "id_legal_id": 300
+  },
+  {
+    "id": 43,
+    "id_client_id": 5767,
+    "id_legal_id": 222
+  },
+  {
+    "id": 44,
+    "id_client_id": 1140,
+    "id_legal_id": 185
+  },
+  {
+    "id": 45,
+    "id_client_id": 6681,
+    "id_legal_id": 140
+  },
+  {
+    "id": 46,
+    "id_client_id": 2573,
+    "id_legal_id": 55
+  },
+  {
+    "id": 47,
+    "id_client_id": 9507,
+    "id_legal_id": 346
+  },
+  {
+    "id": 48,
+    "id_client_id": 11369,
+    "id_legal_id": 288
+  },
+  {
+    "id": 49,
+    "id_client_id": 12949,
+    "id_legal_id": 165
+  },
+  {
+    "id": 50,
+    "id_client_id": 5474,
+    "id_legal_id": 201
+  },
+  {
+    "id": 51,
+    "id_client_id": 17027,
+    "id_legal_id": 314
+  },
+  {
+    "id": 52,
+    "id_client_id": 14162,
+    "id_legal_id": 241
+  },
+  {
+    "id": 53,
+    "id_client_id": 9051,
+    "id_legal_id": 142
+  },
+  {
+    "id": 54,
+    "id_client_id": 14236,
+    "id_legal_id": 63
+  },
+  {
+    "id": 55,
+    "id_client_id": 6652,
+    "id_legal_id": 84
+  },
+  {
+    "id": 56,
+    "id_client_id": 14764,
+    "id_legal_id": 313
+  },
+  {
+    "id": 57,
+    "id_client_id": 11291,
+    "id_legal_id": 389
+  },
+  {
+    "id": 58,
+    "id_client_id": 7414,
+    "id_legal_id": 119
+  },
+  {
+    "id": 59,
+    "id_client_id": 17142,
+    "id_legal_id": 161
+  },
+  {
+    "id": 60,
+    "id_client_id": 8212,
+    "id_legal_id": 34
+  },
+  {
+    "id": 61,
+    "id_client_id": 19276,
+    "id_legal_id": 299
+  },
+  {
+    "id": 62,
+    "id_client_id": 3504,
+    "id_legal_id": 237
+  },
+  {
+    "id": 63,
+    "id_client_id": 17883,
+    "id_legal_id": 8
+  },
+  {
+    "id": 64,
+    "id_client_id": 17073,
+    "id_legal_id": 300
+  },
+  {
+    "id": 65,
+    "id_client_id": 17995,
+    "id_legal_id": 172
+  },
+  {
+    "id": 66,
+    "id_client_id": 11044,
+    "id_legal_id": 105
+  },
+  {
+    "id": 67,
+    "id_client_id": 339,
+    "id_legal_id": 290
+  },
+  {
+    "id": 68,
+    "id_client_id": 14542,
+    "id_legal_id": 239
+  },
+  {
+    "id": 69,
+    "id_client_id": 8882,
+    "id_legal_id": 209
+  },
+  {
+    "id": 70,
+    "id_client_id": 2186,
+    "id_legal_id": 19
+  },
+  {
+    "id": 71,
+    "id_client_id": 9918,
+    "id_legal_id": 31
+  },
+  {
+    "id": 72,
+    "id_client_id": 6366,
+    "id_legal_id": 9
+  },
+  {
+    "id": 73,
+    "id_client_id": 18757,
+    "id_legal_id": 171
+  },
+  {
+    "id": 74,
+    "id_client_id": 11453,
+    "id_legal_id": 56
+  },
+  {
+    "id": 75,
+    "id_client_id": 18332,
+    "id_legal_id": 159
+  },
+  {
+    "id": 76,
+    "id_client_id": 1825,
+    "id_legal_id": 171
+  },
+  {
+    "id": 77,
+    "id_client_id": 6051,
+    "id_legal_id": 29
+  },
+  {
+    "id": 78,
+    "id_client_id": 12024,
+    "id_legal_id": 238
+  },
+  {
+    "id": 79,
+    "id_client_id": 14342,
+    "id_legal_id": 152
+  },
+  {
+    "id": 80,
+    "id_client_id": 12956,
+    "id_legal_id": 238
+  },
+  {
+    "id": 81,
+    "id_client_id": 2685,
+    "id_legal_id": 298
+  },
+  {
+    "id": 82,
+    "id_client_id": 6838,
+    "id_legal_id": 246
+  },
+  {
+    "id": 83,
+    "id_client_id": 13135,
+    "id_legal_id": 8
+  },
+  {
+    "id": 84,
+    "id_client_id": 9661,
+    "id_legal_id": 158
+  },
+  {
+    "id": 85,
+    "id_client_id": 14130,
+    "id_legal_id": 148
+  },
+  {
+    "id": 86,
+    "id_client_id": 14797,
+    "id_legal_id": 70
+  },
+  {
+    "id": 87,
+    "id_client_id": 2064,
+    "id_legal_id": 370
+  },
+  {
+    "id": 88,
+    "id_client_id": 18531,
+    "id_legal_id": 308
+  },
+  {
+    "id": 89,
+    "id_client_id": 9648,
+    "id_legal_id": 367
+  },
+  {
+    "id": 90,
+    "id_client_id": 10534,
+    "id_legal_id": 56
+  },
+  {
+    "id": 91,
+    "id_client_id": 10510,
+    "id_legal_id": 344
+  },
+  {
+    "id": 92,
+    "id_client_id": 8799,
+    "id_legal_id": 176
+  },
+  {
+    "id": 93,
+    "id_client_id": 1485,
+    "id_legal_id": 376
+  },
+  {
+    "id": 94,
+    "id_client_id": 18390,
+    "id_legal_id": 340
+  },
+  {
+    "id": 95,
+    "id_client_id": 3570,
+    "id_legal_id": 179
+  },
+  {
+    "id": 96,
+    "id_client_id": 3553,
+    "id_legal_id": 381
+  },
+  {
+    "id": 97,
+    "id_client_id": 3476,
+    "id_legal_id": 193
+  },
+  {
+    "id": 98,
+    "id_client_id": 19801,
+    "id_legal_id": 391
+  },
+  {
+    "id": 99,
+    "id_client_id": 14813,
+    "id_legal_id": 189
+  }
+]
